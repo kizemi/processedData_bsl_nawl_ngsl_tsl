@@ -1,0 +1,5878 @@
+[
+  {
+    "entry": "equity",
+    "rank": 3,
+    "meaning_ja_noun": "正当さ / 持ち分 / 純価 / 正当性"
+  },
+  {
+    "entry": "sponsorship",
+    "rank": 6,
+    "meaning_ja_noun": "主催 / 後援 / 肝煎り"
+  },
+  {
+    "entry": "non",
+    "rank": 9,
+    "meaning_ja_adverb": "否定"
+  },
+  {
+    "entry": "hedge",
+    "rank": 11,
+    "meaning_ja_noun": "曖昧な発言 / ヘッジ / 垣根"
+  },
+  {
+    "entry": "maturity",
+    "rank": 18,
+    "meaning_ja_noun": "成熟 / 満期 / 熟成 / 円熟"
+  },
+  {
+    "entry": "marginal",
+    "rank": 23,
+    "meaning_ja_adjective": "周辺の / 限られた"
+  },
+  {
+    "entry": "e-book",
+    "meaning_ja": "【名/C】電子書籍",
+    "rank": 27
+  },
+  {
+    "entry": "variance",
+    "rank": 29,
+    "meaning_ja_noun": "通常と異なる行動 / 変則 / 変動性 / 違い"
+  },
+  {
+    "entry": "depreciation",
+    "rank": 30,
+    "meaning_ja_noun": "下落 / 軽蔑 / 磨滅"
+  },
+  {
+    "entry": "anti",
+    "meaning_ja": "【接頭辞】反…；非…；対…；抗…；不…",
+    "rank": 32
+  },
+  {
+    "entry": "entity",
+    "rank": 34,
+    "meaning_ja_noun": "実体"
+  },
+  {
+    "entry": "commodity",
+    "rank": 40,
+    "meaning_ja_noun": "品物 / 商品 / 物品"
+  },
+  {
+    "entry": "monetary",
+    "rank": 41,
+    "meaning_ja_adjective": "金銭的な"
+  },
+  {
+    "entry": "aggregate",
+    "rank": 42,
+    "meaning_ja_noun": "集合体 / （該当なし） / 合計"
+  },
+  {
+    "entry": "valuation",
+    "rank": 43,
+    "meaning_ja_noun": "評価 / 鑑定 / 評定 / 査定"
+  },
+  {
+    "entry": "default",
+    "rank": 46,
+    "meaning_ja_noun": "不戦敗 / デフォルト / 滞納 / 不払い"
+  },
+  {
+    "entry": "subsidiary",
+    "rank": 49,
+    "meaning_ja_noun": "子会社 / 部下 / 配下 / 子分"
+  },
+  {
+    "entry": "mid",
+    "meaning_ja": "【形】中央の, 中部の, 中間の / 【前】《詩》 …の中に, …の真ん中に(amid)  / 【接頭辞】中央の, 中部の, 半ばの",
+    "rank": 50
+  },
+  {
+    "entry": "allocation",
+    "rank": 51,
+    "meaning_ja_noun": "メモリ割り当て / 割り当て / 配分 / 記憶割り当て"
+  },
+  {
+    "entry": "volatility",
+    "rank": 53,
+    "meaning_ja_noun": "興奮しやすさ / 未知数 / 揮発性"
+  },
+  {
+    "entry": "deviation",
+    "rank": 55,
+    "meaning_ja_noun": "偏差 / 誤差 / 逸脱"
+  },
+  {
+    "entry": "receivable",
+    "rank": 56,
+    "meaning_ja_adjective": "未収の"
+  },
+  {
+    "entry": "equilibrium",
+    "rank": 57,
+    "meaning_ja_noun": "平衡感覚 / 平衡 / 安定 / 平均"
+  },
+  {
+    "entry": "pre",
+    "meaning_ja": "【接頭辞】前の,以前の / 前もって,あらかじめ / …の前部にある",
+    "rank": 58
+  },
+  {
+    "entry": "creditor",
+    "rank": 59,
+    "meaning_ja_noun": "債権者"
+  },
+  {
+    "entry": "derivative",
+    "rank": 60,
+    "meaning_ja_noun": "導関数 / 派生語 / デリバティブ / 誘導体"
+  },
+  {
+    "entry": "sub",
+    "rank": 61,
+    "meaning_ja_noun": "潜水艦 / 爆撃機"
+  },
+  {
+    "entry": "surplus",
+    "rank": 63,
+    "meaning_ja_adjective": "余計な / 過剰な / 過多な / 冗長な"
+  },
+  {
+    "entry": "annuity",
+    "rank": 64,
+    "meaning_ja_noun": "年金"
+  },
+  {
+    "entry": "disclosure",
+    "rank": 65,
+    "meaning_ja_noun": "公開 / 開示 / 暴露 / 口外"
+  },
+  {
+    "entry": "regime",
+    "rank": 66,
+    "meaning_ja_noun": "養生法 / 政府 / 体制"
+  },
+  {
+    "entry": "risky",
+    "rank": 67,
+    "meaning_ja_adjective": "危ない / 悪い / 危うい / 危険な"
+  },
+  {
+    "entry": "leverage",
+    "rank": 68,
+    "meaning_ja_noun": "レバレッジ / 影響力"
+  },
+  {
+    "entry": "parliament",
+    "rank": 72,
+    "meaning_ja_noun": "カードゲーム / 議会 / 国会"
+  },
+  {
+    "entry": "coalition",
+    "rank": 73,
+    "meaning_ja_noun": "連合 / 同盟 / 合併 / 連盟"
+  },
+  {
+    "entry": "beta",
+    "rank": 75,
+    "meaning_ja_adjective": "ベータ"
+  },
+  {
+    "entry": "lender",
+    "rank": 76,
+    "meaning_ja_noun": "貸し手"
+  },
+  {
+    "entry": "gross",
+    "rank": 77,
+    "meaning_ja_adjective": "ひどい / 不快なほど太った / 全般的な / 汚い"
+  },
+  {
+    "entry": "liquidity",
+    "rank": 78,
+    "meaning_ja_noun": "流動性 / 液体 / 液状"
+  },
+  {
+    "entry": "fraud",
+    "rank": 81,
+    "meaning_ja_noun": "詐欺 / 詐欺師 / 詐取"
+  },
+  {
+    "entry": "regulator",
+    "rank": 83,
+    "meaning_ja_noun": "レギュレーター"
+  },
+  {
+    "entry": "par",
+    "rank": 84,
+    "meaning_ja_noun": "パー / 同一 / 基準打数 / 平等"
+  },
+  {
+    "entry": "swap",
+    "rank": 85,
+    "meaning_ja_verb": "（適切な訳語なし） / 交換する / 転換する / 交わす"
+  },
+  {
+    "entry": "regression",
+    "rank": 88,
+    "meaning_ja_noun": "逆戻り / 回帰 / 退行 / 固着"
+  },
+  {
+    "entry": "constitution",
+    "rank": 91,
+    "meaning_ja_noun": "組織 / アメリカ海軍の艦船 / 構造 / 憲法"
+  },
+  {
+    "entry": "trader",
+    "rank": 92,
+    "meaning_ja_noun": "商人 / ディーラー"
+  },
+  {
+    "entry": "monopoly",
+    "rank": 93,
+    "meaning_ja_noun": "モノポリー / 独占 / 専売 / 独り占め"
+  },
+  {
+    "entry": "correlation",
+    "rank": 94,
+    "meaning_ja_noun": "相関 / 相関係数"
+  },
+  {
+    "entry": "stockmarket",
+    "meaning_ja": "【名】株式市場 / 証券取引所 / 株式売買 / 株価",
+    "rank": 95
+  },
+  {
+    "entry": "ex",
+    "rank": 96,
+    "meaning_ja_noun": "先妻 / 前夫"
+  },
+  {
+    "entry": "breach",
+    "rank": 98,
+    "meaning_ja_noun": "不履行 / 中断 / 断絶"
+  },
+  {
+    "entry": "subsidy",
+    "rank": 99,
+    "meaning_ja_noun": "補助金"
+  },
+  {
+    "entry": "corruption",
+    "rank": 102,
+    "meaning_ja_noun": "堕落 / 買収 / 汚職 / 腐敗"
+  },
+  {
+    "entry": "issuer",
+    "rank": 103,
+    "meaning_ja_noun": "発行者"
+  },
+  {
+    "entry": "borrower",
+    "rank": 104,
+    "meaning_ja_noun": "借り手 / 借り主 / 借主"
+  },
+  {
+    "entry": "insurer",
+    "rank": 105,
+    "meaning_ja_noun": "保険会社"
+  },
+  {
+    "entry": "profitability",
+    "rank": 107,
+    "meaning_ja_noun": "収益性 / 採算性"
+  },
+  {
+    "entry": "scenario",
+    "rank": 110,
+    "meaning_ja_noun": "シナリオ / 筋書き / 脚本 / 台本"
+  },
+  {
+    "entry": "terrorism",
+    "rank": 111,
+    "meaning_ja_noun": "テロリズム"
+  },
+  {
+    "entry": "regulatory",
+    "rank": 113,
+    "meaning_ja_adjective": "規制の"
+  },
+  {
+    "entry": "coefficient",
+    "rank": 115,
+    "meaning_ja_noun": "係数"
+  },
+  {
+    "entry": "optimal",
+    "rank": 119,
+    "meaning_ja_adjective": "最適な / 至適な"
+  },
+  {
+    "entry": "nominal",
+    "rank": 120,
+    "meaning_ja_adjective": "名目上の / 名義の / ちょっとした / 名目の"
+  },
+  {
+    "entry": "infrastructure",
+    "rank": 121,
+    "meaning_ja_noun": "基盤 / 下部構造 / 下部組織 / 基礎構造"
+  },
+  {
+    "entry": "disclose",
+    "rank": 122,
+    "meaning_ja_verb": "明らかにする / 見せる / 公開する / 晒す"
+  },
+  {
+    "entry": "offset",
+    "rank": 123,
+    "meaning_ja_noun": "オフセット / オフセット印刷 / 当然の結果 / 相殺"
+  },
+  {
+    "entry": "conversion",
+    "rank": 128,
+    "meaning_ja_noun": "転換 / 改宗 / コンヴァート / 変換"
+  },
+  {
+    "entry": "stakeholder",
+    "rank": 130,
+    "meaning_ja_noun": "利害関係者"
+  },
+  {
+    "entry": "taxpayer",
+    "rank": 132,
+    "meaning_ja_noun": "担税者 / 納税者"
+  },
+  {
+    "entry": "alliance",
+    "rank": 133,
+    "meaning_ja_noun": "合体 / 連合 / 同盟"
+  },
+  {
+    "entry": "debtor",
+    "rank": 136,
+    "meaning_ja_noun": "借り手 / 借り主 / 借主"
+  },
+  {
+    "entry": "liable",
+    "rank": 137,
+    "meaning_ja_adjective": "責任がある"
+  },
+  {
+    "entry": "parameter",
+    "rank": 139,
+    "meaning_ja_noun": "パラメーター"
+  },
+  {
+    "entry": "integration",
+    "rank": 140,
+    "meaning_ja_noun": "積分 / 統合 / 総合 / 統一"
+  },
+  {
+    "entry": "scandal",
+    "rank": 141,
+    "meaning_ja_noun": "スキャンダル / 不祥 / 汚職 / 不埒"
+  },
+  {
+    "entry": "interval",
+    "rank": 142,
+    "meaning_ja_noun": "狭間 / 区間 / 距離 / 時間"
+  },
+  {
+    "entry": "defer",
+    "rank": 143,
+    "meaning_ja_verb": "服する / 伸ばす / 屈する / 延ばす"
+  },
+  {
+    "entry": "payoff",
+    "rank": 146,
+    "meaning_ja_noun": "報い / 利益 / 賄賂 / ペイオフ"
+  },
+  {
+    "entry": "ethical",
+    "rank": 147,
+    "meaning_ja_adjective": "倫理的な"
+  },
+  {
+    "entry": "publicly",
+    "rank": 148,
+    "meaning_ja_adverb": "大っぴら / 晴れて"
+  },
+  {
+    "entry": "governance",
+    "rank": 150,
+    "meaning_ja_noun": "支配 / 体制 / 統治 / マネージメント"
+  },
+  {
+    "entry": "marketer",
+    "rank": 152,
+    "meaning_ja_noun": "店員 / 商人 / 酒屋 / 売り手"
+  },
+  {
+    "entry": "benchmark",
+    "rank": 153,
+    "meaning_ja_noun": "ベンチマーク / 水準点"
+  },
+  {
+    "entry": "rebel",
+    "rank": 154,
+    "meaning_ja_noun": "逆賊 / 反逆者 / ジョニー",
+    "meaning_ja_verb": "反乱する / 反する"
+  },
+  {
+    "entry": "statute",
+    "rank": 155,
+    "meaning_ja_noun": "法律 / 法令 / 律令"
+  },
+  {
+    "entry": "restructure",
+    "rank": 156,
+    "meaning_ja_verb": "再構築する"
+  },
+  {
+    "entry": "residual",
+    "rank": 157,
+    "meaning_ja_noun": "残り / あまり / 余り"
+  },
+  {
+    "entry": "bubble",
+    "rank": 158,
+    "meaning_ja_noun": "ドーム / 幻想 / バブル"
+  },
+  {
+    "entry": "arbitrage",
+    "rank": 159,
+    "meaning_ja_noun": "裁定取引"
+  },
+  {
+    "entry": "execute",
+    "rank": 162,
+    "meaning_ja_verb": "実行する / 成す / 実践する / 処刑する"
+  },
+  {
+    "entry": "deem",
+    "rank": 166,
+    "meaning_ja_verb": "思う / 考える / 見なす"
+  },
+  {
+    "entry": "defendant",
+    "rank": 168,
+    "meaning_ja_noun": "容疑 / 被告"
+  },
+  {
+    "entry": "statistical",
+    "rank": 169,
+    "meaning_ja_adjective": "統計学的な / 統計的な"
+  },
+  {
+    "entry": "matrix",
+    "rank": 170,
+    "meaning_ja_noun": "爪母 / 細胞間物質 / 行列"
+  },
+  {
+    "entry": "allowance",
+    "rank": 172,
+    "meaning_ja_noun": "許可 / 許容範囲 / 手当て / 余裕"
+  },
+  {
+    "entry": "enforce",
+    "rank": 175,
+    "meaning_ja_verb": "適用する / 強制する / 施行する / 課する"
+  },
+  {
+    "entry": "emission",
+    "rank": 176,
+    "meaning_ja_noun": "放出 / 分泌 / 放射"
+  },
+  {
+    "entry": "warrant",
+    "rank": 180,
+    "meaning_ja_noun": "令状 / 保証書 / 承認 / ワラント"
+  },
+  {
+    "entry": "telecom",
+    "rank": 182,
+    "meaning_ja_noun": "テレコム"
+  },
+  {
+    "entry": "diversify",
+    "rank": 184,
+    "meaning_ja_verb": "広がる / 多様化する / 広げる / 進出する"
+  },
+  {
+    "entry": "exploit",
+    "rank": 187,
+    "meaning_ja_verb": "利用する / 利する / 悪用する"
+  },
+  {
+    "entry": "referendum",
+    "rank": 189,
+    "meaning_ja_noun": "住民投票"
+  },
+  {
+    "entry": "treaty",
+    "rank": 191,
+    "meaning_ja_noun": "条約 / 協定 / 協約"
+  },
+  {
+    "entry": "sophisticate",
+    "rank": 193,
+    "meaning_ja_verb": "洗練する / 詭弁を使う / 複雑化する"
+  },
+  {
+    "entry": "multi",
+    "meaning_ja": "【接頭辞】多くの…；種々の…：多数（倍）の...",
+    "rank": 194
+  },
+  {
+    "entry": "taxation",
+    "rank": 200,
+    "meaning_ja_noun": "課税 / 税収入 / 税金"
+  },
+  {
+    "entry": "technological",
+    "rank": 203,
+    "meaning_ja_adjective": "技術的な / テクニカルな"
+  },
+  {
+    "entry": "multinational",
+    "rank": 204,
+    "meaning_ja_adjective": "多国籍な"
+  },
+  {
+    "entry": "plaintiff",
+    "rank": 205,
+    "meaning_ja_noun": "原告"
+  },
+  {
+    "entry": "tariff",
+    "rank": 209,
+    "meaning_ja_noun": "関税"
+  },
+  {
+    "entry": "shrink",
+    "rank": 211,
+    "meaning_ja_verb": "詰まる / 縮む / 萎える / 減る",
+    "meaning_ja_noun": "精神医学者 / 精神科医"
+  },
+  {
+    "entry": "foreigner",
+    "rank": 213,
+    "meaning_ja_noun": "外国人 / よそ者 / 余所者 / アウトサイダー"
+  },
+  {
+    "entry": "consolidate",
+    "rank": 217,
+    "meaning_ja_verb": "強化する / まとめる / 固まる / 纏める"
+  },
+  {
+    "entry": "taxable",
+    "rank": 218,
+    "meaning_ja_adjective": "課税対象の"
+  },
+  {
+    "entry": "disadvantage",
+    "rank": 220,
+    "meaning_ja_noun": "不利"
+  },
+  {
+    "entry": "subordinate",
+    "rank": 223,
+    "meaning_ja_adjective": "従属的な / 下位の"
+  },
+  {
+    "entry": "inflow",
+    "rank": 225,
+    "meaning_ja_noun": "流入"
+  },
+  {
+    "entry": "pledge",
+    "rank": 226,
+    "meaning_ja_verb": "誓う / 誓約する / 乾杯する / 寄付する"
+  },
+  {
+    "entry": "collateral",
+    "rank": 229,
+    "meaning_ja_adjective": "（該当なし） / 付随的な"
+  },
+  {
+    "entry": "modest",
+    "rank": 230,
+    "meaning_ja_adjective": "慎ましい / 控えめな / 小さい / 適度な"
+  },
+  {
+    "entry": "convertible",
+    "rank": 231,
+    "meaning_ja_adjective": "形質転換性な / 交換可能な / 変形可能な / 翻訳可能な"
+  },
+  {
+    "entry": "thereby",
+    "rank": 232,
+    "meaning_ja_adverb": "そのために / それによって"
+  },
+  {
+    "entry": "ledger",
+    "rank": 233,
+    "meaning_ja_noun": "帳簿 / 台帳 / 帳面"
+  },
+  {
+    "entry": "linear",
+    "rank": 234,
+    "meaning_ja_adjective": "リニア / 線形"
+  },
+  {
+    "entry": "summit",
+    "rank": 235,
+    "meaning_ja_noun": "サミット / 頂点 / 頂上"
+  },
+  {
+    "entry": "repay",
+    "rank": 236,
+    "meaning_ja_verb": "言い返す / 返済する / 返す / 応える"
+  },
+  {
+    "entry": "ministry",
+    "rank": 238,
+    "meaning_ja_noun": "牧師職 / 庁舎 / 大臣団"
+  },
+  {
+    "entry": "multiply",
+    "rank": 239,
+    "meaning_ja_verb": "育てる / 増える / 繁殖する / 複製する"
+  },
+  {
+    "entry": "consensus",
+    "rank": 246,
+    "meaning_ja_noun": "一致 / 同意 / 合意 / 同心"
+  },
+  {
+    "entry": "essentially",
+    "rank": 247,
+    "meaning_ja_adverb": "本質的に"
+  },
+  {
+    "entry": "presidency",
+    "rank": 248,
+    "meaning_ja_noun": "総裁"
+  },
+  {
+    "entry": "rational",
+    "rank": 249,
+    "meaning_ja_adjective": "正当な / 有理な / 合理的な / 知的な"
+  },
+  {
+    "entry": "con",
+    "rank": 250,
+    "meaning_ja_noun": "詐欺 / 反対意見 / 囚人"
+  },
+  {
+    "entry": "undermine",
+    "rank": 252,
+    "meaning_ja_verb": "蝕む / 損なう / 虫食む / 弱める"
+  },
+  {
+    "entry": "identical",
+    "rank": 256,
+    "meaning_ja_adjective": "一卵性な / 同一な / 均一な / 同一の"
+  },
+  {
+    "entry": "surge",
+    "rank": 260,
+    "meaning_ja_noun": "急増 / うねり / 急騰 / 大波"
+  },
+  {
+    "entry": "predecessor",
+    "rank": 265,
+    "meaning_ja_noun": "先駆 / 前身 / 先発 / 先代"
+  },
+  {
+    "entry": "deputy",
+    "rank": 267,
+    "meaning_ja_noun": "代理 / 郡保安官代理 / 代わり / 下院議員"
+  },
+  {
+    "entry": "sole",
+    "rank": 270,
+    "meaning_ja_adjective": "排他的な / 単一な / 独占的な / 唯一無二な"
+  },
+  {
+    "entry": "outsource",
+    "rank": 271,
+    "meaning_ja_verb": "外注する"
+  },
+  {
+    "entry": "chancellor",
+    "rank": 273,
+    "meaning_ja_noun": "総理 / 総長 / 財務大臣 / 宰相"
+  },
+  {
+    "entry": "lawsuit",
+    "rank": 274,
+    "meaning_ja_noun": "裁判 / 訴訟 / 訴え"
+  },
+  {
+    "entry": "notably",
+    "rank": 275,
+    "meaning_ja_adverb": "特に"
+  },
+  {
+    "entry": "fluctuation",
+    "rank": 276,
+    "meaning_ja_noun": "変動すること / 変化 / 変動 / 揺れること"
+  },
+  {
+    "entry": "discrimination",
+    "rank": 277,
+    "meaning_ja_noun": "差別 / 区別 / 隔て / 識別"
+  },
+  {
+    "entry": "widespread",
+    "rank": 279,
+    "meaning_ja_adjective": "広範囲な / 広範な"
+  },
+  {
+    "entry": "goodwill",
+    "rank": 281,
+    "meaning_ja_noun": "好意 / 無形資産 / 恩恵"
+  },
+  {
+    "entry": "diversification",
+    "rank": 282,
+    "meaning_ja_noun": "多様化 / 多様性"
+  },
+  {
+    "entry": "likelihood",
+    "rank": 283,
+    "meaning_ja_noun": "見込み / 公算"
+  },
+  {
+    "entry": "orient",
+    "rank": 285,
+    "meaning_ja_verb": "適応させる / 慣れさせる / 位置を確かめる / 向ける"
+  },
+  {
+    "entry": "metric",
+    "rank": 287,
+    "meaning_ja_adjective": "メートル法の / メトリック"
+  },
+  {
+    "entry": "insider",
+    "rank": 288,
+    "meaning_ja_noun": "インサイダー"
+  },
+  {
+    "entry": "minus",
+    "meaning_ja": "…を引くと,を減ずると  / 《話》…なしで,を失って,のない(without)",
+    "rank": 290
+  },
+  {
+    "entry": "constitutional",
+    "rank": 291,
+    "meaning_ja_adjective": "憲法に基づく / 生理的な / 固有な / 健康に良い"
+  },
+  {
+    "entry": "privatization",
+    "rank": 292,
+    "meaning_ja_noun": "民営化"
+  },
+  {
+    "entry": "missile",
+    "rank": 294,
+    "meaning_ja_noun": "ミサイル / 弾丸"
+  },
+  {
+    "entry": "remedy",
+    "rank": 296,
+    "meaning_ja_noun": "矯正 / 治療 / 療法 / 医薬"
+  },
+  {
+    "entry": "accordance",
+    "rank": 298,
+    "meaning_ja_noun": "一致 / 合意"
+  },
+  {
+    "entry": "parliamentary",
+    "rank": 299,
+    "meaning_ja_adjective": "議会制の"
+  },
+  {
+    "entry": "vertical",
+    "rank": 300,
+    "meaning_ja_adjective": "垂直な / 垂直統合の"
+  },
+  {
+    "entry": "activist",
+    "rank": 304,
+    "meaning_ja_adjective": "活動家の"
+  },
+  {
+    "entry": "node",
+    "rank": 305,
+    "meaning_ja_noun": "クライアント / （該当訳なし） / 葉節点"
+  },
+  {
+    "entry": "consultancy",
+    "rank": 306,
+    "meaning_ja_noun": "コンサルタント業"
+  },
+  {
+    "entry": "classification",
+    "rank": 307,
+    "meaning_ja_noun": "区別 / 内訳 / 分類 / 区分"
+  },
+  {
+    "entry": "utilize",
+    "rank": 308,
+    "meaning_ja_verb": "利用する / 使う / 使用する / 用いる"
+  },
+  {
+    "entry": "methodology",
+    "rank": 309,
+    "meaning_ja_noun": "方法論"
+  },
+  {
+    "entry": "upward",
+    "rank": 311,
+    "meaning_ja_adjective": "上向きの / 上向きな"
+  },
+  {
+    "entry": "charter",
+    "rank": 312,
+    "meaning_ja_verb": "取る / 特許を与える / 借りる / 雇う"
+  },
+  {
+    "entry": "vulnerable",
+    "rank": 314,
+    "meaning_ja_adjective": "脆弱な / 脆弱性な"
+  },
+  {
+    "entry": "dominant",
+    "rank": 315,
+    "meaning_ja_adjective": "支配的な / 優性な / 一般的な"
+  },
+  {
+    "entry": "citation",
+    "rank": 316,
+    "meaning_ja_noun": "サラブレッド / 提示 / 引用 / 表彰"
+  },
+  {
+    "entry": "lessee",
+    "rank": 318,
+    "meaning_ja_noun": "借り主 / 借主"
+  },
+  {
+    "entry": "communist",
+    "rank": 320,
+    "meaning_ja_noun": "共産党員 / コミュニスト"
+  },
+  {
+    "entry": "bust",
+    "rank": 321,
+    "meaning_ja_verb": "爆発する / 壊れる / 壊す / 破る"
+  },
+  {
+    "entry": "execution",
+    "rank": 323,
+    "meaning_ja_noun": "死刑 / 殺人 / パフォーマンス / 実施"
+  },
+  {
+    "entry": "sensitivity",
+    "rank": 326,
+    "meaning_ja_noun": "感覚 / 感度 / 感性 / 鋭敏"
+  },
+  {
+    "entry": "rally",
+    "rank": 327,
+    "meaning_ja_noun": "ラリー / 立て直し / 大会 / 回復"
+  },
+  {
+    "entry": "intangible",
+    "rank": 328,
+    "meaning_ja_adjective": "無形の"
+  },
+  {
+    "entry": "successor",
+    "rank": 329,
+    "meaning_ja_noun": "後継 / 跡継ぎ / 後任"
+  },
+  {
+    "entry": "exempt",
+    "rank": 330,
+    "meaning_ja_adjective": "免除された / 非課税の"
+  },
+  {
+    "entry": "globalization",
+    "rank": 331,
+    "meaning_ja_noun": "グローバリゼーション"
+  },
+  {
+    "entry": "elasticity",
+    "rank": 333,
+    "meaning_ja_noun": "弾力性"
+  },
+  {
+    "entry": "weaken",
+    "rank": 334,
+    "meaning_ja_verb": "弱くなる / 弱める / デスカレートする / 緩める"
+  },
+  {
+    "entry": "accrue",
+    "rank": 335,
+    "meaning_ja_verb": "積もる / 生ずる"
+  },
+  {
+    "entry": "interim",
+    "rank": 340,
+    "meaning_ja_adjective": "暫定的な"
+  },
+  {
+    "entry": "payout",
+    "meaning_ja": "【名/C】支出金,支払金",
+    "rank": 341
+  },
+  {
+    "entry": "suppress",
+    "rank": 342,
+    "meaning_ja_verb": "抑える / 抑圧する / 抑制する / 弾圧する"
+  },
+  {
+    "entry": "electoral",
+    "rank": 344,
+    "meaning_ja_adjective": "選挙の"
+  },
+  {
+    "entry": "jurisdiction",
+    "rank": 345,
+    "meaning_ja_noun": "権限 / 管轄 / 所轄 / 管区"
+  },
+  {
+    "entry": "ambition",
+    "rank": 346,
+    "meaning_ja_noun": "野望 / 大志 / 希望"
+  },
+  {
+    "entry": "systematic",
+    "rank": 347,
+    "meaning_ja_adjective": "体系的な / 分類学的な"
+  },
+  {
+    "entry": "outsider",
+    "rank": 348,
+    "meaning_ja_noun": "よそ者 / アウトサイダー / 余所者"
+  },
+  {
+    "entry": "prevail",
+    "rank": 349,
+    "meaning_ja_verb": "説得する / 勝利する / 普及する / 生きる"
+  },
+  {
+    "entry": "virtual",
+    "rank": 350,
+    "meaning_ja_adjective": "仮想の / 実質的な"
+  },
+  {
+    "entry": "observer",
+    "rank": 353,
+    "meaning_ja_noun": "観察者 / コメンテーター / オブザーバー"
+  },
+  {
+    "entry": "algorithm",
+    "rank": 356,
+    "meaning_ja_noun": "アルゴリズム / 演算手順"
+  },
+  {
+    "entry": "horizon",
+    "rank": 357,
+    "meaning_ja_noun": "視野 / 地平 / 地平線 / 展望"
+  },
+  {
+    "entry": "quantitative",
+    "rank": 359,
+    "meaning_ja_adjective": "量的な / 計量的な"
+  },
+  {
+    "entry": "counterpart",
+    "rank": 362,
+    "meaning_ja_noun": "写し / 対応物"
+  },
+  {
+    "entry": "diminish",
+    "rank": 363,
+    "meaning_ja_verb": "落ちる / 軽視する / 下がる / 減る"
+  },
+  {
+    "entry": "collective",
+    "rank": 364,
+    "meaning_ja_adjective": "集団的な / 集合的な"
+  },
+  {
+    "entry": "repayment",
+    "rank": 367,
+    "meaning_ja_noun": "払い戻し / 返済 / 返金"
+  },
+  {
+    "entry": "offshore",
+    "rank": 368,
+    "meaning_ja_adjective": "陸上の / 沖合の"
+  },
+  {
+    "entry": "marketplace",
+    "rank": 369,
+    "meaning_ja_noun": "市場 / マーケット / マート"
+  },
+  {
+    "entry": "comparable",
+    "rank": 371,
+    "meaning_ja_adjective": "匹敵する / 同じ / 等しい / 同様な"
+  },
+  {
+    "entry": "proxy",
+    "rank": 374,
+    "meaning_ja_noun": "委任状 / 代理人 / 記入子"
+  },
+  {
+    "entry": "politically",
+    "rank": 375,
+    "meaning_ja_adverb": "政治的に / 政治的には"
+  },
+  {
+    "entry": "municipal",
+    "rank": 377,
+    "meaning_ja_adjective": "市の"
+  },
+  {
+    "entry": "hostile",
+    "rank": 378,
+    "meaning_ja_adjective": "敵対的 / 過酷な"
+  },
+  {
+    "entry": "tonne",
+    "rank": 379,
+    "meaning_ja_noun": "仏噸"
+  },
+  {
+    "entry": "periodic",
+    "rank": 382,
+    "meaning_ja_adjective": "周期的な"
+  },
+  {
+    "entry": "barrel",
+    "rank": 383,
+    "meaning_ja_noun": "バレル / 樽の容量"
+  },
+  {
+    "entry": "accelerate",
+    "rank": 384,
+    "meaning_ja_verb": "加速する / スピードアップする"
+  },
+  {
+    "entry": "mandate",
+    "rank": 389,
+    "meaning_ja_noun": "委任 / 委任統治 / 命令"
+  },
+  {
+    "entry": "donor",
+    "rank": 394,
+    "meaning_ja_noun": "寄付者 / ドナー"
+  },
+  {
+    "entry": "gamble",
+    "rank": 395,
+    "meaning_ja_noun": "ギャンブル / （該当する訳語なし）"
+  },
+  {
+    "entry": "norm",
+    "rank": 396,
+    "meaning_ja_noun": "平均 / 基準 / 標準 / 規範"
+  },
+  {
+    "entry": "tighten",
+    "rank": 399,
+    "meaning_ja_verb": "きつくなる / 締める / 制限する / 抑える"
+  },
+  {
+    "entry": "amend",
+    "rank": 400,
+    "meaning_ja_verb": "改正する / 良くする / 直す / 矯正する"
+  },
+  {
+    "entry": "squeeze",
+    "rank": 401,
+    "meaning_ja_verb": "押しつける / 圧縮する / 抓る / 詰め込む"
+  },
+  {
+    "entry": "ultimate",
+    "rank": 406,
+    "meaning_ja_adjective": "究極の / 最終的な"
+  },
+  {
+    "entry": "neutral",
+    "rank": 407,
+    "meaning_ja_adjective": "中立な / 特徴のない / ニュートラルな / 中立的な"
+  },
+  {
+    "entry": "axis",
+    "rank": 408,
+    "meaning_ja_noun": "中軸 / ブロック / 枢軸"
+  },
+  {
+    "entry": "scrap",
+    "rank": 413,
+    "meaning_ja_noun": "喧嘩 / くず / 断片"
+  },
+  {
+    "entry": "petrol",
+    "rank": 414,
+    "meaning_ja_noun": "ガソリン"
+  },
+  {
+    "entry": "uncertain",
+    "rank": 415,
+    "meaning_ja_adjective": "不確かな / 危ない / 不安定な / 怪しい"
+  },
+  {
+    "entry": "pipeline",
+    "rank": 417,
+    "meaning_ja_noun": "パイプ / 口コミ"
+  },
+  {
+    "entry": "suicide",
+    "rank": 419,
+    "meaning_ja_noun": "自殺 / 自殺者 / 自害 / 自決"
+  },
+  {
+    "entry": "terror",
+    "rank": 420,
+    "meaning_ja_noun": "テロ / 恐怖 / 手に負えない子供 / 脅威"
+  },
+  {
+    "entry": "quota",
+    "rank": 421,
+    "meaning_ja_noun": "クオーター / 割り / 割り当て / 分け前"
+  },
+  {
+    "entry": "trustee",
+    "rank": 424,
+    "meaning_ja_noun": "理事 / 保管人 / 評議員 / 管財人"
+  },
+  {
+    "entry": "domain",
+    "rank": 426,
+    "meaning_ja_noun": "分野 / 世界 / 定義域 / 国土"
+  },
+  {
+    "entry": "frontier",
+    "rank": 427,
+    "meaning_ja_noun": "最前線 / 辺境 / 国境 / フロンティア"
+  },
+  {
+    "entry": "seize",
+    "rank": 428,
+    "meaning_ja_verb": "引きつける / 襲う / つかむ / 捕まえる"
+  },
+  {
+    "entry": "beneficiary",
+    "rank": 429,
+    "meaning_ja_noun": "受益者 / 受贈者"
+  },
+  {
+    "entry": "comparative",
+    "rank": 430,
+    "meaning_ja_noun": "比較級"
+  },
+  {
+    "entry": "capitalism",
+    "rank": 431,
+    "meaning_ja_noun": "資本主義"
+  },
+  {
+    "entry": "readily",
+    "rank": 433,
+    "meaning_ja_adverb": "容易 / すぐ / 易々 / 直ちに"
+  },
+  {
+    "entry": "fraction",
+    "rank": 434,
+    "meaning_ja_noun": "部分 / 分数 / 溜分 / 留分"
+  },
+  {
+    "entry": "solely",
+    "rank": 437,
+    "meaning_ja_adverb": "ただ / 単に / もっぱら"
+  },
+  {
+    "entry": "capitalization",
+    "rank": 438,
+    "meaning_ja_noun": "現価"
+  },
+  {
+    "entry": "pioneer",
+    "rank": 440,
+    "meaning_ja_verb": "開拓する / 開始する / 先駆する / 先駆け"
+  },
+  {
+    "entry": "diplomat",
+    "rank": 441,
+    "meaning_ja_noun": "外交官 / 外交家"
+  },
+  {
+    "entry": "endorse",
+    "rank": 443,
+    "meaning_ja_verb": "裏書する / 支持する / 保証する / 認める"
+  },
+  {
+    "entry": "cheque",
+    "rank": 444,
+    "meaning_ja_noun": "小切手 / 預金小切手"
+  },
+  {
+    "entry": "intent",
+    "rank": 447,
+    "meaning_ja_adjective": "只管な / 一向な / 夢中な"
+  },
+  {
+    "entry": "lessor",
+    "rank": 449,
+    "meaning_ja_noun": "賃貸人"
+  },
+  {
+    "entry": "affiliate",
+    "rank": 452,
+    "meaning_ja_noun": "関連会社 / 提携者"
+  },
+  {
+    "entry": "statutory",
+    "rank": 453,
+    "meaning_ja_adjective": "法定の"
+  },
+  {
+    "entry": "exporter",
+    "rank": 458,
+    "meaning_ja_noun": "輸出業者"
+  },
+  {
+    "entry": "prosecutor",
+    "rank": 460,
+    "meaning_ja_noun": "検事 / 検察"
+  },
+  {
+    "entry": "slump",
+    "rank": 463,
+    "meaning_ja_verb": "暴落する / 訂正する / 沈む / 頽る"
+  },
+  {
+    "entry": "lag",
+    "rank": 464,
+    "meaning_ja_verb": "断熱する / 投げる / 遅れる / 閉じ込める"
+  },
+  {
+    "entry": "volatile",
+    "rank": 465,
+    "meaning_ja_adjective": "変動しやすい / 気まぐれ / 危険な / 揮発性な"
+  },
+  {
+    "entry": "enforcement",
+    "rank": 466,
+    "meaning_ja_noun": "施行 / エンフォースメント"
+  },
+  {
+    "entry": "sack",
+    "rank": 467,
+    "meaning_ja_verb": "袋に入れる / 略奪する / もうける / 解雇する"
+  },
+  {
+    "entry": "initiate",
+    "rank": 470,
+    "meaning_ja_verb": "開始する / 提起する / 始める / 開拓する"
+  },
+  {
+    "entry": "obstacle",
+    "rank": 472,
+    "meaning_ja_noun": "邪魔 / 障害 / 支障 / 差し支え"
+  },
+  {
+    "entry": "render",
+    "rank": 473,
+    "meaning_ja_verb": "変える / 脂肪を溶かす / 翻訳する / 表する / 言い渡す"
+  },
+  {
+    "entry": "coup",
+    "rank": 474,
+    "meaning_ja_noun": "成功 / 反乱 / クーデター / 政変"
+  },
+  {
+    "entry": "bundle",
+    "rank": 475,
+    "meaning_ja_verb": "同寝する / 固める / 束ねる / 丸める"
+  },
+  {
+    "entry": "issuance",
+    "rank": 478,
+    "meaning_ja_noun": "発行 / 供給 / 支給 / 配給"
+  },
+  {
+    "entry": "capitalist",
+    "rank": 479,
+    "meaning_ja_adjective": "資本主義的な / 資本家的な"
+  },
+  {
+    "entry": "capitalize",
+    "rank": 480,
+    "meaning_ja_verb": "資本化する / ポイントする"
+  },
+  {
+    "entry": "contractual",
+    "rank": 481,
+    "meaning_ja_adjective": "契約上の"
+  },
+  {
+    "entry": "differential",
+    "rank": 482,
+    "meaning_ja_noun": "差動歯車 / 差異 / 微分"
+  },
+  {
+    "entry": "amortization",
+    "rank": 483,
+    "meaning_ja_noun": "償却 / 償還"
+  },
+  {
+    "entry": "unfair",
+    "rank": 484,
+    "meaning_ja_adjective": "不公平な"
+  },
+  {
+    "entry": "inter",
+    "rank": 487,
+    "meaning_ja_verb": "埋める / 葬る / 埋葬する"
+  },
+  {
+    "entry": "induce",
+    "rank": 488,
+    "meaning_ja_verb": "帰納する / 誘う / 生ずる / 促す"
+  },
+  {
+    "entry": "elite",
+    "rank": 489,
+    "meaning_ja_noun": "エリート"
+  },
+  {
+    "entry": "nationalist",
+    "rank": 491,
+    "meaning_ja_noun": "志士 / 国家主義者 / ナショナリスト"
+  },
+  {
+    "entry": "simultaneously",
+    "rank": 494,
+    "meaning_ja_adverb": "同時"
+  },
+  {
+    "entry": "broadly",
+    "rank": 495,
+    "meaning_ja_adverb": "普通 / 広く / 一般 / 一体"
+  },
+  {
+    "entry": "demographic",
+    "rank": 496,
+    "meaning_ja_adjective": "人口統計の"
+  },
+  {
+    "entry": "conglomerate",
+    "rank": 499,
+    "meaning_ja_noun": "帝国 / 集合岩"
+  },
+  {
+    "entry": "sustainable",
+    "rank": 501,
+    "meaning_ja_adjective": "持続可能な"
+  },
+  {
+    "entry": "credibility",
+    "rank": 504,
+    "meaning_ja_noun": "信頼性"
+  },
+  {
+    "entry": "simulation",
+    "rank": 505,
+    "meaning_ja_noun": "見せかけ / シミュレーション / モデル / 見せ掛け"
+  },
+  {
+    "entry": "senator",
+    "rank": 506,
+    "meaning_ja_noun": "上院議員"
+  },
+  {
+    "entry": "adoption",
+    "rank": 507,
+    "meaning_ja_noun": "受け入れ / 借用 / 養子縁組"
+  },
+  {
+    "entry": "standardize",
+    "rank": 509,
+    "meaning_ja_verb": "標準化する"
+  },
+  {
+    "entry": "consolidation",
+    "rank": 511,
+    "meaning_ja_noun": "総合 / 固化 / 固まり / 統一"
+  },
+  {
+    "entry": "sensible",
+    "rank": 513,
+    "meaning_ja_adjective": "知覚できる / 至当な / 気づいている / 明白な"
+  },
+  {
+    "entry": "headline",
+    "rank": 514,
+    "meaning_ja_noun": "見出し"
+  },
+  {
+    "entry": "deploy",
+    "rank": 516,
+    "meaning_ja_verb": "展開する / 配備する / 敷く"
+  },
+  {
+    "entry": "macroeconomic",
+    "rank": 517,
+    "meaning_ja_adjective": "マクロ経済の"
+  },
+  {
+    "entry": "concession",
+    "rank": 518,
+    "meaning_ja_noun": "権利譲渡 / 譲歩"
+  },
+  {
+    "entry": "contingent",
+    "rank": 520,
+    "meaning_ja_adjective": "不確実な / 付随的な / 可能性のある"
+  },
+  {
+    "entry": "diverse",
+    "rank": 521,
+    "meaning_ja_adjective": "不同な / 色々 / いろいろ / 様々"
+  },
+  {
+    "entry": "privately",
+    "rank": 523,
+    "meaning_ja_adverb": "内々 / 私的に"
+  },
+  {
+    "entry": "guerrilla",
+    "rank": 524,
+    "meaning_ja_noun": "ゲリラ"
+  },
+  {
+    "entry": "repurchase",
+    "rank": 528,
+    "meaning_ja_noun": "再購入"
+  },
+  {
+    "entry": "denote",
+    "rank": 529,
+    "meaning_ja_verb": "指示する / 意味する / 発表する / 示す"
+  },
+  {
+    "entry": "inequality",
+    "rank": 530,
+    "meaning_ja_noun": "凸凹"
+  },
+  {
+    "entry": "plunge",
+    "rank": 531,
+    "meaning_ja_verb": "飛び出す / 没頭する / 浸す / 浸ける"
+  },
+  {
+    "entry": "intensive",
+    "rank": 532,
+    "meaning_ja_adjective": "集約的な / 強調的な / 集中的な"
+  },
+  {
+    "entry": "nonetheless",
+    "rank": 533,
+    "meaning_ja_adverb": "なおかつ"
+  },
+  {
+    "entry": "horizontal",
+    "rank": 537,
+    "meaning_ja_adjective": "水平な"
+  },
+  {
+    "entry": "legally",
+    "rank": 538,
+    "meaning_ja_adverb": "法律的に / 法律的 / 合法的"
+  },
+  {
+    "entry": "installment",
+    "rank": 539,
+    "meaning_ja_noun": "設置 / 一回分 / 掛け金 / 装置"
+  },
+  {
+    "entry": "empirical",
+    "rank": 540,
+    "meaning_ja_adjective": "実証的な / 経験的な"
+  },
+  {
+    "entry": "revive",
+    "rank": 541,
+    "meaning_ja_verb": "更生する / 生かす / 意識を回復する / 蘇る"
+  },
+  {
+    "entry": "inevitable",
+    "rank": 543,
+    "meaning_ja_adjective": "必至な / 不可避な / 不可抗な"
+  },
+  {
+    "entry": "array",
+    "rank": 544,
+    "meaning_ja_noun": "配列 / 衣服 / 展示"
+  },
+  {
+    "entry": "ballot",
+    "rank": 545,
+    "meaning_ja_noun": "投票用紙 / 投票 / 採決"
+  },
+  {
+    "entry": "treasury",
+    "rank": 546,
+    "meaning_ja_noun": "宝庫 / 大蔵省 / 財務省 / 第一大蔵卿"
+  },
+  {
+    "entry": "intermediary",
+    "rank": 547,
+    "meaning_ja_noun": "仲介 / 橋渡し / 架橋"
+  },
+  {
+    "entry": "boast",
+    "rank": 549,
+    "meaning_ja_verb": "吹く / 見せつける / 自慢する / 見せびらかす"
+  },
+  {
+    "entry": "militant",
+    "rank": 550,
+    "meaning_ja_adjective": "好戦的な / 戦争に従事している / 戦闘的な"
+  },
+  {
+    "entry": "discourage",
+    "rank": 551,
+    "meaning_ja_verb": "防ぐ / 警告する / 落胆させる / 言い聞かせる"
+  },
+  {
+    "entry": "hierarchy",
+    "rank": 552,
+    "meaning_ja_noun": "階層 / ヒエラルキー / 序列"
+  },
+  {
+    "entry": "fate",
+    "rank": 554,
+    "meaning_ja_noun": "幸せ / 運命"
+  },
+  {
+    "entry": "widen",
+    "rank": 555,
+    "meaning_ja_verb": "広がる / 拡大する / 拡張する / 大きくする"
+  },
+  {
+    "entry": "transformation",
+    "rank": 558,
+    "meaning_ja_noun": "変形 / 変化 / 変換 / 転換"
+  },
+  {
+    "entry": "qualitative",
+    "rank": 559,
+    "meaning_ja_adjective": "質的な"
+  },
+  {
+    "entry": "gang",
+    "rank": 561,
+    "meaning_ja_noun": "連中 / クルー / 悪党 / 仲間"
+  },
+  {
+    "entry": "curb",
+    "rank": 565,
+    "meaning_ja_noun": "歯止め / アメリカン証券取引所 / 縁石 / カーブビット"
+  },
+  {
+    "entry": "robust",
+    "rank": 567,
+    "meaning_ja_adjective": "粗野な / 丈夫な / 強い / 濃厚な"
+  },
+  {
+    "entry": "brokerage",
+    "rank": 568,
+    "meaning_ja_noun": "仲介所 / 仲介業 / 株式仲介業"
+  },
+  {
+    "entry": "tolerance",
+    "rank": 571,
+    "meaning_ja_noun": "我慢 / 寛容 / トレランス / 耐性"
+  },
+  {
+    "entry": "devise",
+    "rank": 572,
+    "meaning_ja_verb": "発明する / 考える / 遺贈する / 考案する"
+  },
+  {
+    "entry": "speculation",
+    "rank": 573,
+    "meaning_ja_noun": "瞑想 / 予測 / 想像 / 相場"
+  },
+  {
+    "entry": "incremental",
+    "rank": 575,
+    "meaning_ja_adjective": "段階的な"
+  },
+  {
+    "entry": "fighter",
+    "rank": 576,
+    "meaning_ja_noun": "ファイター / 戦士 / 闘士 / 武者"
+  },
+  {
+    "entry": "grip",
+    "rank": 578,
+    "meaning_ja_noun": "把握 / スーツケース / ヘアピン",
+    "meaning_ja_verb": "捕まえる / 掴まえる / 釘づけ / 掴む"
+  },
+  {
+    "entry": "mathematical",
+    "rank": 579,
+    "meaning_ja_adjective": "数学的な / 数理的な / 正確な"
+  },
+  {
+    "entry": "assert",
+    "rank": 580,
+    "meaning_ja_verb": "主張する / 言い切る / 断言する / 言い張る"
+  },
+  {
+    "entry": "underwrite",
+    "rank": 581,
+    "meaning_ja_verb": "費用を負担する / 保障する / 金銭的な面倒を見る / カバーする"
+  },
+  {
+    "entry": "differentiate",
+    "rank": 582,
+    "meaning_ja_verb": "異なる / 種分化する / 分化する / 微分する"
+  },
+  {
+    "entry": "correlate",
+    "rank": 583,
+    "meaning_ja_verb": "関連する / 相関する"
+  },
+  {
+    "entry": "compel",
+    "rank": 584,
+    "meaning_ja_verb": "押しつける / 強いる / 押し付ける / 強要する"
+  },
+  {
+    "entry": "agriculture",
+    "rank": 586,
+    "meaning_ja_noun": "農業 / 大規模農業 / 農務省"
+  },
+  {
+    "entry": "multiplier",
+    "rank": 588,
+    "meaning_ja_noun": "乗数"
+  },
+  {
+    "entry": "slowdown",
+    "rank": 589,
+    "meaning_ja_noun": "遅れ / 遅延 / 遅滞 / 減速"
+  },
+  {
+    "entry": "adverse",
+    "rank": 590,
+    "meaning_ja_adjective": "反対の / 不利な / 都合悪い"
+  },
+  {
+    "entry": "suspicion",
+    "rank": 591,
+    "meaning_ja_noun": "疑い / 怪しむこと / 予感 / 疑惑"
+  },
+  {
+    "entry": "virtue",
+    "rank": 592,
+    "meaning_ja_noun": "節操 / 価値 / 道徳"
+  },
+  {
+    "entry": "flee",
+    "rank": 593,
+    "meaning_ja_verb": "逃げる / 免れる / 逃げ出す / 逃亡する"
+  },
+  {
+    "entry": "bureaucracy",
+    "rank": 594,
+    "meaning_ja_noun": "官僚 / 官僚制"
+  },
+  {
+    "entry": "threshold",
+    "rank": 595,
+    "meaning_ja_noun": "敷居 / ドア / 感覚の閾値"
+  },
+  {
+    "entry": "wholesale",
+    "rank": 597,
+    "meaning_ja_adverb": "大規模に / 卸売で"
+  },
+  {
+    "entry": "legitimate",
+    "rank": 598,
+    "meaning_ja_adjective": "法的に認められた / 正当な / 適法な / 論理的な"
+  },
+  {
+    "entry": "privacy",
+    "rank": 599,
+    "meaning_ja_noun": "秘密 / 隠されていること / プライバシー / 内緒"
+  },
+  {
+    "entry": "behavioral",
+    "rank": 600,
+    "meaning_ja_adjective": "行動に関する"
+  },
+  {
+    "entry": "tangible",
+    "rank": 601,
+    "meaning_ja_adjective": "具体的な / 触れられる / 触知できる"
+  },
+  {
+    "entry": "dump",
+    "rank": 602,
+    "meaning_ja_verb": "打ちのめす / 積み上げる / 落ちる / 捨てる",
+    "meaning_ja_noun": "保管所 / ダンプ / 捨て場 / うんこ"
+  },
+  {
+    "entry": "discharge",
+    "rank": 606,
+    "meaning_ja_noun": "発砲 / 放棄声明 / 排出"
+  },
+  {
+    "entry": "explicit",
+    "rank": 607,
+    "meaning_ja_adjective": "クリアな / 明示的な / 明快な / 明解な"
+  },
+  {
+    "entry": "breakdown",
+    "rank": 608,
+    "meaning_ja_noun": "混乱 / 分析 / 故障 / 腐敗"
+  },
+  {
+    "entry": "span",
+    "rank": 609,
+    "meaning_ja_verb": "渡る / 広がる / 横たわる"
+  },
+  {
+    "entry": "bail",
+    "rank": 610,
+    "meaning_ja_verb": "水をくみ出す / くみ出して空にする / 保釈する / 預ける"
+  },
+  {
+    "entry": "incumbent",
+    "rank": 611,
+    "meaning_ja_adjective": "現職の / 義務的な / 寄りかかっている"
+  },
+  {
+    "entry": "outflow",
+    "rank": 614,
+    "meaning_ja_noun": "流出 / 漏れ"
+  },
+  {
+    "entry": "albeit",
+    "meaning_ja": "《かたく》...だけれども / たとえ…でも",
+    "rank": 615
+  },
+  {
+    "entry": "tricky",
+    "rank": 616,
+    "meaning_ja_adjective": "ずるい / キャッチーな / 信用できない / ずる賢い"
+  },
+  {
+    "entry": "spokesman",
+    "rank": 617,
+    "meaning_ja_noun": "スポークスマン"
+  },
+  {
+    "entry": "contingency",
+    "rank": 619,
+    "meaning_ja_noun": "偶発事象 / 依存状態"
+  },
+  {
+    "entry": "surrender",
+    "rank": 623,
+    "meaning_ja_verb": "降る / 渡す / 下る / 与える"
+  },
+  {
+    "entry": "judicial",
+    "rank": 624,
+    "meaning_ja_adjective": "裁判上な / 司法の"
+  },
+  {
+    "entry": "certainty",
+    "rank": 625,
+    "meaning_ja_noun": "必然 / 確信"
+  },
+  {
+    "entry": "mainstream",
+    "rank": 626,
+    "meaning_ja_noun": "主流"
+  },
+  {
+    "entry": "rebuild",
+    "rank": 629,
+    "meaning_ja_verb": "再建する / 建て替える"
+  },
+  {
+    "entry": "corrupt",
+    "rank": 630,
+    "meaning_ja_adjective": "腐敗した / 不正な / 悪辣な / 腐った"
+  },
+  {
+    "entry": "integrity",
+    "rank": 631,
+    "meaning_ja_noun": "直行 / 完全 / 清廉"
+  },
+  {
+    "entry": "proposition",
+    "rank": 632,
+    "meaning_ja_noun": "提案 / 命題 / 申し込み / 提言"
+  },
+  {
+    "entry": "litigation",
+    "rank": 633,
+    "meaning_ja_noun": "訴訟 / 訴訟行為"
+  },
+  {
+    "entry": "amid",
+    "meaning_ja": "…の中に / …のまっさい中に / （=[[mid]]）",
+    "rank": 634
+  },
+  {
+    "entry": "bold",
+    "rank": 636,
+    "meaning_ja_adjective": "勇ましい / 鮮明な / 急峻な / 大胆な",
+    "meaning_ja_noun": "ボールド体"
+  },
+  {
+    "entry": "straightforward",
+    "rank": 639,
+    "meaning_ja_adjective": "直接な / 明るい / 素直な / 明確な"
+  },
+  {
+    "entry": "handful",
+    "rank": 640,
+    "meaning_ja_noun": "一握り / 少量 / 一掴み"
+  },
+  {
+    "entry": "unchanged",
+    "rank": 643,
+    "meaning_ja_adjective": "変わらない"
+  },
+  {
+    "entry": "queue",
+    "rank": 644,
+    "meaning_ja_noun": "弁髪 / タスクのキュー / 何かを待つ行列",
+    "meaning_ja_verb": "並ぶ / 行列する / 整列する"
+  },
+  {
+    "entry": "bidder",
+    "rank": 645,
+    "meaning_ja_noun": "入札者"
+  },
+  {
+    "entry": "respective",
+    "rank": 646,
+    "meaning_ja_adjective": "それぞれの / 個々の"
+  },
+  {
+    "entry": "deliverable",
+    "rank": 647,
+    "meaning_ja_adjective": "配達可能な"
+  },
+  {
+    "entry": "depict",
+    "rank": 649,
+    "meaning_ja_verb": "示す / 表わす / 肖像画に描く / 述べる"
+  },
+  {
+    "entry": "odds",
+    "rank": 650,
+    "meaning_ja_noun": "可能性 / オッズ"
+  },
+  {
+    "entry": "allegation",
+    "rank": 653,
+    "meaning_ja_noun": "告発 / 主張"
+  },
+  {
+    "entry": "redemption",
+    "rank": 654,
+    "meaning_ja_noun": "買い戻し / 救済 / 償還 / 救い"
+  },
+  {
+    "entry": "downward",
+    "rank": 655,
+    "meaning_ja_adjective": "下向きな"
+  },
+  {
+    "entry": "grid",
+    "rank": 656,
+    "meaning_ja_noun": "焼き網 / グリッド / 電力網"
+  },
+  {
+    "entry": "depreciate",
+    "rank": 659,
+    "meaning_ja_verb": "価値が下がる / 価値を下げる / 悪く言う"
+  },
+  {
+    "entry": "interface",
+    "rank": 660,
+    "meaning_ja_noun": "インターフェース / ポート"
+  },
+  {
+    "entry": "digit",
+    "rank": 661,
+    "meaning_ja_noun": "フィンガー / 数字 / ディジット"
+  },
+  {
+    "entry": "hybrid",
+    "rank": 664,
+    "meaning_ja_adjective": "ハイブリッドな"
+  },
+  {
+    "entry": "provoke",
+    "rank": 666,
+    "meaning_ja_verb": "唆る / 齎す / 掻き立てる / 苛める"
+  },
+  {
+    "entry": "inevitably",
+    "rank": 667,
+    "meaning_ja_adverb": "必ず / 必定"
+  },
+  {
+    "entry": "dilemma",
+    "rank": 669,
+    "meaning_ja_noun": "ジレンマ / 苦境 / 窮地 / 板挟み"
+  },
+  {
+    "entry": "info",
+    "rank": 671,
+    "meaning_ja_noun": "ニュース / 案内 / 情報 / 報告"
+  },
+  {
+    "entry": "secular",
+    "rank": 673,
+    "meaning_ja_adjective": "無宗教な / 世俗の / 世俗的な"
+  },
+  {
+    "entry": "cease",
+    "rank": 674,
+    "meaning_ja_verb": "置く / 終わる / 止める / 中止する"
+  },
+  {
+    "entry": "distress",
+    "rank": 675,
+    "meaning_ja_noun": "差し押さえ / 悩み / 苦痛 / 窮状"
+  },
+  {
+    "entry": "withhold",
+    "rank": 676,
+    "meaning_ja_verb": "見合わせる / 弁償する / 留保する / 差し控える"
+  },
+  {
+    "entry": "sterling",
+    "rank": 677,
+    "meaning_ja_adjective": "無上な"
+  },
+  {
+    "entry": "legacy",
+    "rank": 678,
+    "meaning_ja_noun": "遺贈"
+  },
+  {
+    "entry": "thrive",
+    "rank": 679,
+    "meaning_ja_verb": "発展する / 伸びる / 成功する / 振るう"
+  },
+  {
+    "entry": "autonomy",
+    "rank": 680,
+    "meaning_ja_noun": "自由 / 独立 / 自治 / 自立"
+  },
+  {
+    "entry": "commander",
+    "rank": 681,
+    "meaning_ja_noun": "司令 / 中佐 / 将校 / 権限者"
+  },
+  {
+    "entry": "accountability",
+    "rank": 683,
+    "meaning_ja_noun": "責任 / アカウンタビリティー"
+  },
+  {
+    "entry": "incorporation",
+    "rank": 684,
+    "meaning_ja_noun": "合併 / 合体 / 内面的な学び / 挿入"
+  },
+  {
+    "entry": "batch",
+    "rank": 686,
+    "meaning_ja_noun": "バッチ / 一焼き分のパン / 洪水 / 多量"
+  },
+  {
+    "entry": "essence",
+    "rank": 687,
+    "meaning_ja_noun": "香水 / ポイント / 要領"
+  },
+  {
+    "entry": "invasion",
+    "rank": 691,
+    "meaning_ja_noun": "侵入 / 侵略 / 攻略 / 侵攻"
+  },
+  {
+    "entry": "bondholder",
+    "rank": 692,
+    "meaning_ja_noun": "債券保有者"
+  },
+  {
+    "entry": "unveil",
+    "rank": 693,
+    "meaning_ja_verb": "ベールを取り除く / 公開する / 引き立てる"
+  },
+  {
+    "entry": "intrinsic",
+    "rank": 694,
+    "meaning_ja_adjective": "固有の / 固有な"
+  },
+  {
+    "entry": "continent",
+    "rank": 695,
+    "meaning_ja_noun": "大陸"
+  },
+  {
+    "entry": "computation",
+    "rank": 697,
+    "meaning_ja_noun": "勘定 / 計算 / 算定 / 破算"
+  },
+  {
+    "entry": "diplomatic",
+    "rank": 698,
+    "meaning_ja_adjective": "外交的な"
+  },
+  {
+    "entry": "formerly",
+    "rank": 705,
+    "meaning_ja_adverb": "以前 / かつて / 嘗て"
+  },
+  {
+    "entry": "optimization",
+    "rank": 706,
+    "meaning_ja_noun": "最適化"
+  },
+  {
+    "entry": "spectrum",
+    "rank": 709,
+    "meaning_ja_noun": "範囲 / スペクトル"
+  },
+  {
+    "entry": "tuple",
+    "meaning_ja": "【名】組；タプル",
+    "rank": 710
+  },
+  {
+    "entry": "magnitude",
+    "rank": 711,
+    "meaning_ja_noun": "規模 / 重要性"
+  },
+  {
+    "entry": "validity",
+    "rank": 714,
+    "meaning_ja_noun": "有効性 / 有効 / 強壮 / 耐久力"
+  },
+  {
+    "entry": "interact",
+    "rank": 715,
+    "meaning_ja_verb": "交流する"
+  },
+  {
+    "entry": "intervene",
+    "rank": 718,
+    "meaning_ja_verb": "介在する / 邪魔する / 介入する / 干渉する"
+  },
+  {
+    "entry": "repertoire",
+    "rank": 719,
+    "meaning_ja_noun": "レパートリー"
+  },
+  {
+    "entry": "halt",
+    "rank": 720,
+    "meaning_ja_verb": "止める / 停止する / 止まる / 中止する"
+  },
+  {
+    "entry": "niche",
+    "rank": 721,
+    "meaning_ja_noun": "ニッチ / 生態学的地位 / 適所"
+  },
+  {
+    "entry": "shed",
+    "rank": 722,
+    "meaning_ja_noun": "小屋"
+  },
+  {
+    "entry": "motive",
+    "rank": 723,
+    "meaning_ja_noun": "動機 / モチーフ / モティーフ"
+  },
+  {
+    "entry": "whereby",
+    "meaning_ja": "【副】《関係副詞》…によって…するところの(according to which)",
+    "rank": 724
+  },
+  {
+    "entry": "median",
+    "rank": 725,
+    "meaning_ja_adjective": "中央の"
+  },
+  {
+    "entry": "wholly",
+    "rank": 726,
+    "meaning_ja_adverb": "全く / 完全 / 丸で / 一切"
+  },
+  {
+    "entry": "supposedly",
+    "rank": 727,
+    "meaning_ja_adverb": "たぶん / おそらく"
+  },
+  {
+    "entry": "crude",
+    "rank": 728,
+    "meaning_ja_adjective": "未処理な / 汚い / プリミティブな / 原油な"
+  },
+  {
+    "entry": "commissioner",
+    "rank": 729,
+    "meaning_ja_noun": "コミッショナー / 委員"
+  },
+  {
+    "entry": "sufficiently",
+    "rank": 730,
+    "meaning_ja_adverb": "十分 / 優に / みっちり"
+  },
+  {
+    "entry": "protocol",
+    "rank": 731,
+    "meaning_ja_noun": "プロトコル / 儀礼"
+  },
+  {
+    "entry": "constrain",
+    "rank": 732,
+    "meaning_ja_verb": "制限する / 抑える / 押さえる / 制御する"
+  },
+  {
+    "entry": "blank",
+    "rank": 735,
+    "meaning_ja_adjective": "空白な / 空の / 完全な / 無表情な"
+  },
+  {
+    "entry": "legislature",
+    "rank": 737,
+    "meaning_ja_noun": "議会"
+  },
+  {
+    "entry": "punish",
+    "rank": 740,
+    "meaning_ja_verb": "罰する"
+  },
+  {
+    "entry": "predictable",
+    "rank": 741,
+    "meaning_ja_adjective": "予想可能な / 予測可能な"
+  },
+  {
+    "entry": "liquidation",
+    "rank": 742,
+    "meaning_ja_noun": "消去 / 破産 / 退治 / 抹殺"
+  },
+  {
+    "entry": "chaos",
+    "rank": 743,
+    "meaning_ja_noun": "カオス / 混沌 / めちゃくちゃ"
+  },
+  {
+    "entry": "impairment",
+    "rank": 745,
+    "meaning_ja_noun": "無駄 / 損傷 / 損害 / 障害"
+  },
+  {
+    "entry": "harvest",
+    "rank": 746,
+    "meaning_ja_noun": "収穫時期 / 収穫 / 収穫期"
+  },
+  {
+    "entry": "migrant",
+    "rank": 751,
+    "meaning_ja_adjective": "遊走生物な"
+  },
+  {
+    "entry": "objection",
+    "rank": 752,
+    "meaning_ja_noun": "異議 / 抗議 / 反対 / 反論"
+  },
+  {
+    "entry": "macroeconomics",
+    "rank": 753,
+    "meaning_ja_noun": "マクロ理論"
+  },
+  {
+    "entry": "accrual",
+    "rank": 757,
+    "meaning_ja_noun": "蓄積 / 集積 / 堆積 / 累積"
+  },
+  {
+    "entry": "confront",
+    "rank": 758,
+    "meaning_ja_verb": "立ち向かう / 対峙する / 向かう / 対する"
+  },
+  {
+    "entry": "punishment",
+    "rank": 759,
+    "meaning_ja_noun": "処分 / 処刑 / 処罰 / 刑罰"
+  },
+  {
+    "entry": "passive",
+    "rank": 760,
+    "meaning_ja_adjective": "ネガティブな / 受動的な / 平和的な / 消極的な"
+  },
+  {
+    "entry": "conditional",
+    "rank": 761,
+    "meaning_ja_adjective": "条件的な"
+  },
+  {
+    "entry": "scrutiny",
+    "rank": 764,
+    "meaning_ja_noun": "検査 / 凝視 / 調べ / 点検"
+  },
+  {
+    "entry": "exile",
+    "rank": 766,
+    "meaning_ja_noun": "追放 / 追放者 / 海外在住者 / 国外追放"
+  },
+  {
+    "entry": "inherent",
+    "rank": 768,
+    "meaning_ja_adjective": "固有な"
+  },
+  {
+    "entry": "explicitly",
+    "rank": 769,
+    "meaning_ja_adverb": "明確"
+  },
+  {
+    "entry": "clever",
+    "rank": 770,
+    "meaning_ja_adjective": "巧み / 賢い / 小賢しい / 巧妙な"
+  },
+  {
+    "entry": "payback",
+    "rank": 772,
+    "meaning_ja_noun": "たたり / 利益 / 祟り"
+  },
+  {
+    "entry": "sacrifice",
+    "rank": 773,
+    "meaning_ja_noun": "犠牲 / 喪失 / いけにえ / 身代わり"
+  },
+  {
+    "entry": "semi",
+    "rank": 774,
+    "meaning_ja_noun": "セミトレーラー / トレーラー / セミファイナル / 準決勝"
+  },
+  {
+    "entry": "feasible",
+    "rank": 775,
+    "meaning_ja_adjective": "可能な / 実行可能な"
+  },
+  {
+    "entry": "conviction",
+    "rank": 776,
+    "meaning_ja_noun": "有罪判決 / 確信 / 信念 / 信条"
+  },
+  {
+    "entry": "continuously",
+    "rank": 777,
+    "meaning_ja_adverb": "縷々 / 延々 / のべつ"
+  },
+  {
+    "entry": "tier",
+    "rank": 780,
+    "meaning_ja_noun": "結びつけるもの / 結び手"
+  },
+  {
+    "entry": "transparency",
+    "rank": 781,
+    "meaning_ja_noun": "透明写真 / 透明"
+  },
+  {
+    "entry": "inadequate",
+    "rank": 782,
+    "meaning_ja_adjective": "不十分な"
+  },
+  {
+    "entry": "acre",
+    "rank": 783,
+    "meaning_ja_noun": "アッコ / エーカー / acre"
+  },
+  {
+    "entry": "levy",
+    "rank": 784,
+    "meaning_ja_noun": "召集 / 賦課"
+  },
+  {
+    "entry": "freely",
+    "rank": 785,
+    "meaning_ja_adverb": "伸び伸び"
+  },
+  {
+    "entry": "reliance",
+    "rank": 786,
+    "meaning_ja_noun": "信頼 / 依存 / 信用 / 頼り"
+  },
+  {
+    "entry": "covenant",
+    "rank": 787,
+    "meaning_ja_noun": "契約 / コンコルダート"
+  },
+  {
+    "entry": "prosecute",
+    "rank": 789,
+    "meaning_ja_verb": "告発する / 訴える / 関与する / 起訴する"
+  },
+  {
+    "entry": "materially",
+    "rank": 790,
+    "meaning_ja_adverb": "物的"
+  },
+  {
+    "entry": "convict",
+    "rank": 791,
+    "meaning_ja_noun": "囚人 / 既決囚"
+  },
+  {
+    "entry": "procurement",
+    "rank": 792,
+    "meaning_ja_noun": "確保 / 取得 / 獲得 / 調達"
+  },
+  {
+    "entry": "clash",
+    "rank": 793,
+    "meaning_ja_noun": "衝突 / カチンカチン / 摩擦 / 色の対立"
+  },
+  {
+    "entry": "deter",
+    "rank": 794,
+    "meaning_ja_verb": "思いとどまらせる / 阻止する"
+  },
+  {
+    "entry": "prosecution",
+    "rank": 795,
+    "meaning_ja_noun": "継続 / 起訴 / 検察"
+  },
+  {
+    "entry": "nasty",
+    "rank": 796,
+    "meaning_ja_adjective": "汚い / 厄介な / 不潔な / 嫌らしい"
+  },
+  {
+    "entry": "condemn",
+    "rank": 797,
+    "meaning_ja_verb": "責める / 言い渡す / 非難する / 有罪だと思わせる"
+  },
+  {
+    "entry": "operative",
+    "rank": 799,
+    "meaning_ja_adjective": "効力のある / 機能的な / 外科的な / 操作的な"
+  },
+  {
+    "entry": "privatize",
+    "rank": 800,
+    "meaning_ja_verb": "私用する"
+  },
+  {
+    "entry": "endure",
+    "rank": 801,
+    "meaning_ja_verb": "我慢する / 被る / 生き延びる / 耐える"
+  },
+  {
+    "entry": "doctrine",
+    "rank": 802,
+    "meaning_ja_noun": "主義 / 哲学 / イズム"
+  },
+  {
+    "entry": "distort",
+    "rank": 803,
+    "meaning_ja_verb": "変形する / 曲げる / 影響を与える / 捻る"
+  },
+  {
+    "entry": "triple",
+    "rank": 804,
+    "meaning_ja_noun": "三塁打 / 三倍 / トリオ"
+  },
+  {
+    "entry": "textile",
+    "rank": 805,
+    "meaning_ja_adjective": "布な"
+  },
+  {
+    "entry": "manipulate",
+    "rank": 807,
+    "meaning_ja_verb": "扱う / 取り扱う / 支配する / 操作する"
+  },
+  {
+    "entry": "unity",
+    "rank": 808,
+    "meaning_ja_noun": "統一 / 完全 / 連合"
+  },
+  {
+    "entry": "alpha",
+    "rank": 809,
+    "meaning_ja_adjective": "アルファ"
+  },
+  {
+    "entry": "refine",
+    "rank": 810,
+    "meaning_ja_verb": "凝る / 洗練する / 精製する / 磨く"
+  },
+  {
+    "entry": "implicit",
+    "rank": 811,
+    "meaning_ja_adjective": "暗黙の / 黙示的な"
+  },
+  {
+    "entry": "deflation",
+    "rank": 812,
+    "meaning_ja_noun": "空気抜き / 通貨収縮 / 土壌侵食"
+  },
+  {
+    "entry": "antitrust",
+    "rank": 813,
+    "meaning_ja_adjective": "反トラスト"
+  },
+  {
+    "entry": "practitioner",
+    "rank": 814,
+    "meaning_ja_noun": "実務家"
+  },
+  {
+    "entry": "prosperity",
+    "rank": 815,
+    "meaning_ja_noun": "繁栄"
+  },
+  {
+    "entry": "riot",
+    "rank": 816,
+    "meaning_ja_noun": "乱交 / ハウラ / 騒動"
+  },
+  {
+    "entry": "align",
+    "rank": 820,
+    "meaning_ja_verb": "並べる / まとめる / 提携する / 整列する"
+  },
+  {
+    "entry": "reinvest",
+    "meaning_ja": "【動/他】を再び投資する,再投資する",
+    "rank": 821
+  },
+  {
+    "entry": "provincial",
+    "rank": 823,
+    "meaning_ja_adjective": "ローカルな"
+  },
+  {
+    "entry": "concede",
+    "rank": 826,
+    "meaning_ja_verb": "告白する / 譲る / 敗北を認める / 譲渡する"
+  },
+  {
+    "entry": "controversy",
+    "rank": 830,
+    "meaning_ja_noun": "論争"
+  },
+  {
+    "entry": "fierce",
+    "rank": 832,
+    "meaning_ja_adjective": "熱烈な / 容赦ない / 激しい / 凄まじい"
+  },
+  {
+    "entry": "veto",
+    "rank": 833,
+    "meaning_ja_noun": "拒否 / 拒否権"
+  },
+  {
+    "entry": "instant",
+    "rank": 834,
+    "meaning_ja_adjective": "即時の / 緊急な / 今月の"
+  },
+  {
+    "entry": "ceasefire",
+    "meaning_ja": "〈C〉停戦, 休戦,休戦命令",
+    "rank": 835
+  },
+  {
+    "entry": "handset",
+    "rank": 836,
+    "meaning_ja_noun": "ハンドセット"
+  },
+  {
+    "entry": "sentiment",
+    "rank": 837,
+    "meaning_ja_noun": "意見 / 気持ち / 考え / 気分"
+  },
+  {
+    "entry": "vest",
+    "rank": 838,
+    "meaning_ja_verb": "衣服を着せる / 衣服を着る / 付与する / 権限を委ねる"
+  },
+  {
+    "entry": "beef",
+    "rank": 839,
+    "meaning_ja_noun": "牛肉 / 不満 / ビーフ"
+  },
+  {
+    "entry": "combat",
+    "rank": 841,
+    "meaning_ja_noun": "戦い / 喧嘩 / 戦闘 / 闘争"
+  },
+  {
+    "entry": "parity",
+    "rank": 842,
+    "meaning_ja_noun": "等価性 / パリティ / パラ"
+  },
+  {
+    "entry": "centralize",
+    "rank": 844,
+    "meaning_ja_verb": "集中する / 結集する"
+  },
+  {
+    "entry": "sovereign",
+    "rank": 845,
+    "meaning_ja_adjective": "最高な / 独立した / 独立的な"
+  },
+  {
+    "entry": "estimation",
+    "rank": 846,
+    "meaning_ja_noun": "意見 / 予算 / 評価 / 鑑定"
+  },
+  {
+    "entry": "lucrative",
+    "rank": 849,
+    "meaning_ja_adjective": "割の良い"
+  },
+  {
+    "entry": "stabilize",
+    "rank": 850,
+    "meaning_ja_verb": "安定させる / 安定する / 押さえる"
+  },
+  {
+    "entry": "molecule",
+    "rank": 852,
+    "meaning_ja_noun": "分子 / 微塵 / 粒子 / かけら"
+  },
+  {
+    "entry": "variability",
+    "rank": 853,
+    "meaning_ja_noun": "変動性 / 不均一性"
+  },
+  {
+    "entry": "strive",
+    "rank": 854,
+    "meaning_ja_verb": "凝らす / 努力する / 尽力する / 務める"
+  },
+  {
+    "entry": "cure",
+    "rank": 855,
+    "meaning_ja_verb": "癒す / 保存する / 硬化させる / 治す",
+    "meaning_ja_noun": "治療 / 療法 / 医薬"
+  },
+  {
+    "entry": "bribe",
+    "rank": 857,
+    "meaning_ja_noun": "賄賂 / 使い物"
+  },
+  {
+    "entry": "militia",
+    "rank": 861,
+    "meaning_ja_noun": "民兵"
+  },
+  {
+    "entry": "wisdom",
+    "rank": 862,
+    "meaning_ja_noun": "知恵 / 聡明 / 知識"
+  },
+  {
+    "entry": "enact",
+    "rank": 863,
+    "meaning_ja_verb": "再現する / 制定する"
+  },
+  {
+    "entry": "controller",
+    "rank": 864,
+    "meaning_ja_noun": "コントローラー / 会計 / 管理者 / 元締め"
+  },
+  {
+    "entry": "shield",
+    "rank": 866,
+    "meaning_ja_noun": "防衛"
+  },
+  {
+    "entry": "pact",
+    "rank": 867,
+    "meaning_ja_noun": "条約 / 協定 / 協約"
+  },
+  {
+    "entry": "discretion",
+    "rank": 868,
+    "meaning_ja_noun": "識別 / 任意 / 慎重 / 珍味"
+  },
+  {
+    "entry": "supervision",
+    "rank": 870,
+    "meaning_ja_noun": "監督 / 監視 / 監理"
+  },
+  {
+    "entry": "dictate",
+    "rank": 872,
+    "meaning_ja_verb": "口述する / 命令する / 独裁する / 命ずる"
+  },
+  {
+    "entry": "purely",
+    "rank": 873,
+    "meaning_ja_adverb": "単に"
+  },
+  {
+    "entry": "substitution",
+    "rank": 874,
+    "meaning_ja_noun": "交流 / 交代 / 代わり / 交換"
+  },
+  {
+    "entry": "pursuit",
+    "rank": 875,
+    "meaning_ja_noun": "追跡 / 興味 / 趣味 / 探究"
+  },
+  {
+    "entry": "minimal",
+    "rank": 876,
+    "meaning_ja_adjective": "極小な / ミニマムな"
+  },
+  {
+    "entry": "vector",
+    "rank": 879,
+    "meaning_ja_noun": "ベクター / ベクトル / 媒介者 / ベクタ"
+  },
+  {
+    "entry": "endowment",
+    "rank": 881,
+    "meaning_ja_noun": "寄付 / 才能 / 天才 / 資質"
+  },
+  {
+    "entry": "disability",
+    "rank": 883,
+    "meaning_ja_noun": "障害 / 不具"
+  },
+  {
+    "entry": "governmental",
+    "rank": 884,
+    "meaning_ja_adjective": "政府の"
+  },
+  {
+    "entry": "competence",
+    "rank": 887,
+    "meaning_ja_noun": "技術 / 能力 / 実力"
+  },
+  {
+    "entry": "slash",
+    "rank": 889,
+    "meaning_ja_noun": "固相線 / 該当なし / 切り傷"
+  },
+  {
+    "entry": "logistics",
+    "rank": 891,
+    "meaning_ja_noun": "ロジスティクス / ロジスティックス"
+  },
+  {
+    "entry": "scarce",
+    "rank": 892,
+    "meaning_ja_adjective": "乏しい / 乏少な"
+  },
+  {
+    "entry": "restraint",
+    "rank": 894,
+    "meaning_ja_noun": "制限 / 制限器具 / 簡素 / 監督"
+  },
+  {
+    "entry": "follower",
+    "rank": 895,
+    "meaning_ja_noun": "信者 / フロア / 信徒 / 従者"
+  },
+  {
+    "entry": "torture",
+    "rank": 896,
+    "meaning_ja_verb": "責める / 苛める / 拷問する / 苛む"
+  },
+  {
+    "entry": "crunch",
+    "rank": 897,
+    "meaning_ja_verb": "こなす / かみ砕く / 噛む / 潰す"
+  },
+  {
+    "entry": "receiver",
+    "rank": 899,
+    "meaning_ja_noun": "受信機 / 受け手 / 破産管財人 / レシーバ"
+  },
+  {
+    "entry": "overlap",
+    "rank": 902,
+    "meaning_ja_noun": "重なり / 重複 / オーバーラップ / 交わり"
+  },
+  {
+    "entry": "encyclopedia",
+    "rank": 904,
+    "meaning_ja_noun": "百科"
+  },
+  {
+    "entry": "lump",
+    "rank": 905,
+    "meaning_ja_noun": "固まり / 愚か者 / こぶ"
+  },
+  {
+    "entry": "momentum",
+    "rank": 906,
+    "meaning_ja_noun": "運動量 / 勢い"
+  },
+  {
+    "entry": "probe",
+    "rank": 907,
+    "meaning_ja_noun": "探査 / プローブ / 調査 / 検討"
+  },
+  {
+    "entry": "aversion",
+    "rank": 908,
+    "meaning_ja_noun": "回避 / 嫌悪"
+  },
+  {
+    "entry": "reconcile",
+    "rank": 909,
+    "meaning_ja_verb": "調和する / 適合させる / 折れる / 和解する"
+  },
+  {
+    "entry": "indirectly",
+    "rank": 910,
+    "meaning_ja_adverb": "暗に"
+  },
+  {
+    "entry": "yuan",
+    "meaning_ja": "ユアン,元(中華人民共和国の貨幣単位)",
+    "rank": 912
+  },
+  {
+    "entry": "namely",
+    "rank": 913,
+    "meaning_ja_adverb": "詰まり / すなわち"
+  },
+  {
+    "entry": "liberty",
+    "rank": 914,
+    "meaning_ja_noun": "自由 / 自治 / 選択の自由 / 休暇"
+  },
+  {
+    "entry": "decent",
+    "rank": 916,
+    "meaning_ja_adjective": "きちんとした / 適切な / 調和の取れた / 立派な"
+  },
+  {
+    "entry": "appetite",
+    "rank": 918,
+    "meaning_ja_noun": "欲望"
+  },
+  {
+    "entry": "tobacco",
+    "rank": 919,
+    "meaning_ja_noun": "タバコ"
+  },
+  {
+    "entry": "unpopular",
+    "rank": 920,
+    "meaning_ja_adjective": "不人望な / 不評判な"
+  },
+  {
+    "entry": "confine",
+    "rank": 921,
+    "meaning_ja_verb": "限る / 閉じ込める / 制限する / 拘束する"
+  },
+  {
+    "entry": "quantify",
+    "rank": 923,
+    "meaning_ja_verb": "測る / 量詞として使用する / 測定する / 測量する"
+  },
+  {
+    "entry": "persist",
+    "rank": 926,
+    "meaning_ja_verb": "続ける / 留まる / 普及する / し続ける"
+  },
+  {
+    "entry": "gauge",
+    "rank": 927,
+    "meaning_ja_verb": "（該当する訳語なし） / 測定する / 予算する / 測る"
+  },
+  {
+    "entry": "corn",
+    "rank": 929,
+    "meaning_ja_noun": "陳腐なもの / コーンウイスキー / トウモロコシ"
+  },
+  {
+    "entry": "skeptical",
+    "rank": 930,
+    "meaning_ja_adjective": "疑い深い / 懐疑的な"
+  },
+  {
+    "entry": "legislative",
+    "rank": 931,
+    "meaning_ja_adjective": "立法の / 法的な"
+  },
+  {
+    "entry": "independently",
+    "rank": 932,
+    "meaning_ja_adverb": "独立に / 個別に"
+  },
+  {
+    "entry": "negligence",
+    "rank": 934,
+    "meaning_ja_noun": "無視 / 軽視 / 油断 / ないがしろ"
+  },
+  {
+    "entry": "determinant",
+    "rank": 936,
+    "meaning_ja_noun": "要因 / 行列式 / エピトープ"
+  },
+  {
+    "entry": "redeem",
+    "rank": 937,
+    "meaning_ja_verb": "換金する / 清算する / 買い戻す / 引き換える"
+  },
+  {
+    "entry": "tribunal",
+    "rank": 938,
+    "meaning_ja_noun": "法廷 / 法院"
+  },
+  {
+    "entry": "chunk",
+    "rank": 940,
+    "meaning_ja_noun": "相当な量 / 固まり / 団塊"
+  },
+  {
+    "entry": "proprietary",
+    "rank": 941,
+    "meaning_ja_adjective": "専売の"
+  },
+  {
+    "entry": "icon",
+    "rank": 942,
+    "meaning_ja_noun": "写真 / アイコン / 映像"
+  },
+  {
+    "entry": "intermediate",
+    "rank": 943,
+    "meaning_ja_adjective": "中間の / 中ぐらい / 中位な"
+  },
+  {
+    "entry": "steep",
+    "rank": 944,
+    "meaning_ja_adjective": "険しい / 急な / 法外な / 急峻な"
+  },
+  {
+    "entry": "acid",
+    "rank": 946,
+    "meaning_ja_noun": "エルヴィス"
+  },
+  {
+    "entry": "safeguard",
+    "rank": 947,
+    "meaning_ja_noun": "備え / 安全通行券 / 予防措置",
+    "meaning_ja_verb": "安全にする / 安全に護衛する"
+  },
+  {
+    "entry": "loom",
+    "rank": 948,
+    "meaning_ja_verb": "織る / そびえる / 出る / 覆いかぶさる"
+  },
+  {
+    "entry": "uranium",
+    "rank": 949,
+    "meaning_ja_noun": "ウラン"
+  },
+  {
+    "entry": "deductible",
+    "rank": 950,
+    "meaning_ja_noun": "免責条項 / 控除額"
+  },
+  {
+    "entry": "conceptual",
+    "rank": 952,
+    "meaning_ja_adjective": "観念的な"
+  },
+  {
+    "entry": "assault",
+    "rank": 953,
+    "meaning_ja_noun": "接近戦 / 脅迫 / 乱暴 / サラブレッド"
+  },
+  {
+    "entry": "optimism",
+    "rank": 954,
+    "meaning_ja_noun": "楽天 / 楽観"
+  },
+  {
+    "entry": "painful",
+    "rank": 955,
+    "meaning_ja_adjective": "苦い / 酷い / 辛い / 悲しい"
+  },
+  {
+    "entry": "ruler",
+    "rank": 956,
+    "meaning_ja_noun": "支配者 / 物差し / 定規"
+  },
+  {
+    "entry": "faction",
+    "rank": 957,
+    "meaning_ja_noun": "派閥 / 分派 / 党派 / 徒党"
+  },
+  {
+    "entry": "null",
+    "rank": 958,
+    "meaning_ja_adjective": "無効な"
+  },
+  {
+    "entry": "forge",
+    "rank": 959,
+    "meaning_ja_verb": "発明する / 偽造する / 作り上げる / 形成する"
+  },
+  {
+    "entry": "rig",
+    "rank": 961,
+    "meaning_ja_noun": "詐欺 / 馬車 / 釣り道具 / 服装"
+  },
+  {
+    "entry": "accountable",
+    "rank": 962,
+    "meaning_ja_adjective": "説明責任のある"
+  },
+  {
+    "entry": "super",
+    "rank": 963,
+    "meaning_ja_adjective": "特別な / 特大の / 最高の"
+  },
+  {
+    "entry": "abolish",
+    "rank": 964,
+    "meaning_ja_verb": "無くす / 廃止する / 無効にする / 撤廃する"
+  },
+  {
+    "entry": "predetermine",
+    "rank": 965,
+    "meaning_ja_verb": "偏見を持たせる / 前もって決定する"
+  },
+  {
+    "entry": "inherit",
+    "rank": 966,
+    "meaning_ja_verb": "相続する / 受け継ぐ / 継承する / 継ぐ"
+  },
+  {
+    "entry": "analytical",
+    "rank": 971,
+    "meaning_ja_adjective": "分析的な / 分解的な"
+  },
+  {
+    "entry": "congressional",
+    "rank": 972,
+    "meaning_ja_adjective": "議会の"
+  },
+  {
+    "entry": "spy",
+    "rank": 973,
+    "meaning_ja_noun": "隠密 / スパイ"
+  },
+  {
+    "entry": "fiber",
+    "rank": 975,
+    "meaning_ja_noun": "ファイバー / 繊維 / 粗飼料"
+  },
+  {
+    "entry": "stall",
+    "rank": 976,
+    "meaning_ja_noun": "時間稼ぎ / ボックス / 屋台 / スタディスペース"
+  },
+  {
+    "entry": "lure",
+    "rank": 979,
+    "meaning_ja_noun": "魅力 / 好餌 / 誘惑"
+  },
+  {
+    "entry": "populist",
+    "rank": 981,
+    "meaning_ja_noun": "ポピュリスト"
+  },
+  {
+    "entry": "contemplate",
+    "rank": 984,
+    "meaning_ja_verb": "思案する / 考える / 思い巡らす / 考察する"
+  },
+  {
+    "entry": "socially",
+    "rank": 985,
+    "meaning_ja_adverb": "社会的"
+  },
+  {
+    "entry": "raid",
+    "rank": 987,
+    "meaning_ja_verb": "襲撃する"
+  },
+  {
+    "entry": "diplomacy",
+    "rank": 988,
+    "meaning_ja_noun": "技巧 / （適切な訳語なし） / 外交 / 珍味"
+  },
+  {
+    "entry": "liquidate",
+    "rank": 989,
+    "meaning_ja_verb": "片付ける / 解体する / 現金化する / 清算する"
+  },
+  {
+    "entry": "rocket",
+    "rank": 991,
+    "meaning_ja_noun": "ロケット / ミサイル / ロケット花火 / ルッコラ"
+  },
+  {
+    "entry": "debenture",
+    "rank": 992,
+    "meaning_ja_noun": "債務証書 / 債券"
+  },
+  {
+    "entry": "collar",
+    "rank": 993,
+    "meaning_ja_noun": "逮捕 / カラー / 首飾り"
+  },
+  {
+    "entry": "outperform",
+    "rank": 994,
+    "meaning_ja_verb": "優れる / 上回る / 凌ぐ / 勝る"
+  },
+  {
+    "entry": "optimize",
+    "rank": 997,
+    "meaning_ja_verb": "オプティマイズする / 最適化する"
+  },
+  {
+    "entry": "broadband",
+    "rank": 999,
+    "meaning_ja_adjective": "広帯域"
+  },
+  {
+    "entry": "reactor",
+    "rank": 1000,
+    "meaning_ja_noun": "リアクター"
+  },
+  {
+    "entry": "equality",
+    "rank": 1002,
+    "meaning_ja_noun": "同一 / 同等 / 平等 / 均等"
+  },
+  {
+    "entry": "entail",
+    "rank": 1003,
+    "meaning_ja_verb": "制限する / 伴う / 意味する"
+  },
+  {
+    "entry": "attributable",
+    "rank": 1007,
+    "meaning_ja_adjective": "帰属するべき / 起因しうる"
+  },
+  {
+    "entry": "revolutionary",
+    "rank": 1008,
+    "meaning_ja_adjective": "革命的な / 回旋性な / 画期的な"
+  },
+  {
+    "entry": "carmaker",
+    "rank": 1009,
+    "meaning_ja_noun": "自動車メーカー"
+  },
+  {
+    "entry": "discretionary",
+    "rank": 1010,
+    "meaning_ja_adjective": "任意な"
+  },
+  {
+    "entry": "reconciliation",
+    "rank": 1011,
+    "meaning_ja_noun": "調整 / 和解"
+  },
+  {
+    "entry": "directive",
+    "rank": 1012,
+    "meaning_ja_adjective": "指導的な"
+  },
+  {
+    "entry": "mutually",
+    "rank": 1013,
+    "meaning_ja_adverb": "相互 / お互いに"
+  },
+  {
+    "entry": "viable",
+    "rank": 1014,
+    "meaning_ja_adjective": "生存可能な / 可能な / 実行可能な"
+  },
+  {
+    "entry": "subprime",
+    "meaning_ja": "【形】上位に次ぐ位の；最高クラスに次ぐ；サブプライムの",
+    "rank": 1015
+  },
+  {
+    "entry": "refusal",
+    "rank": 1016,
+    "meaning_ja_noun": "拒否 / 拒絶 / 断わり / 辞退"
+  },
+  {
+    "entry": "geographic",
+    "rank": 1019,
+    "meaning_ja_adjective": "地理的な"
+  },
+  {
+    "entry": "consortium",
+    "rank": 1020,
+    "meaning_ja_noun": "企業組合 / 共同企業体"
+  },
+  {
+    "entry": "speculative",
+    "rank": 1021,
+    "meaning_ja_adjective": "好奇心旺盛な / 概念的な / 悪い / 観念的な"
+  },
+  {
+    "entry": "policeman",
+    "rank": 1022,
+    "meaning_ja_noun": "警官 / 警察 / 巡査 / 官憲"
+  },
+  {
+    "entry": "historically",
+    "rank": 1023,
+    "meaning_ja_adverb": "歴史的 / 歴史上"
+  },
+  {
+    "entry": "amortize",
+    "rank": 1025,
+    "meaning_ja_verb": "償却する"
+  },
+  {
+    "entry": "exploration",
+    "rank": 1026,
+    "meaning_ja_noun": "探索 / 探検 / 探究 / 詮索"
+  },
+  {
+    "entry": "deliberately",
+    "rank": 1027,
+    "meaning_ja_adverb": "意図的に / じっくり / とっくり / 篤と"
+  },
+  {
+    "entry": "mill",
+    "rank": 1028,
+    "meaning_ja_noun": "粉砕 / ミル / 工場 / ファクトリー"
+  },
+  {
+    "entry": "loser",
+    "rank": 1029,
+    "meaning_ja_noun": "負け犬 / 敗者 / 下積み"
+  },
+  {
+    "entry": "subjective",
+    "rank": 1030,
+    "meaning_ja_adjective": "内在的な / 主観的な"
+  },
+  {
+    "entry": "builder",
+    "rank": 1031,
+    "meaning_ja_noun": "ビルダー / 洗剤 / コンストラクタ"
+  },
+  {
+    "entry": "mainland",
+    "rank": 1032,
+    "meaning_ja_noun": "本土 / 内地"
+  },
+  {
+    "entry": "peaceful",
+    "rank": 1034,
+    "meaning_ja_adjective": "安い / 平和的な / 静かな / 消極的な"
+  },
+  {
+    "entry": "importantly",
+    "rank": 1035,
+    "meaning_ja_adverb": "重要 / 有意"
+  },
+  {
+    "entry": "backward",
+    "rank": 1036,
+    "meaning_ja_adjective": "後ろの / 引っ込み思案な / 発展途上の / 知的発達が遅れた"
+  },
+  {
+    "entry": "counterparty",
+    "meaning_ja": "取引先, 取引先企業 / 契約相手, 相手方",
+    "rank": 1037
+  },
+  {
+    "entry": "overwhelm",
+    "rank": 1039,
+    "meaning_ja_verb": "圧倒する / 飲む / 押す"
+  },
+  {
+    "entry": "consistency",
+    "rank": 1040,
+    "meaning_ja_noun": "一致 / 一貫性 / 一貫"
+  },
+  {
+    "entry": "unprecedented",
+    "rank": 1041,
+    "meaning_ja_adjective": "未曾有な"
+  },
+  {
+    "entry": "declaration",
+    "rank": 1042,
+    "meaning_ja_noun": "宣言 / 申し立て / 発表 / 契約"
+  },
+  {
+    "entry": "retention",
+    "rank": 1044,
+    "meaning_ja_noun": "保有 / 保持 / 覚え"
+  },
+  {
+    "entry": "harsh",
+    "rank": 1045,
+    "meaning_ja_adjective": "厳しい / 残酷な / 険しい / 強い"
+  },
+  {
+    "entry": "contend",
+    "rank": 1046,
+    "meaning_ja_verb": "主張する / 論争する / 議論する / 比べる"
+  },
+  {
+    "entry": "covariance",
+    "rank": 1047,
+    "meaning_ja_noun": "共分散"
+  },
+  {
+    "entry": "jointly",
+    "rank": 1048,
+    "meaning_ja_adverb": "一緒に / 共同で"
+  },
+  {
+    "entry": "exclusion",
+    "rank": 1052,
+    "meaning_ja_noun": "排除 / 除外 / 排他 / 駆逐"
+  },
+  {
+    "entry": "bomber",
+    "rank": 1053,
+    "meaning_ja_noun": "爆撃機 / ボンバー"
+  },
+  {
+    "entry": "viewer",
+    "rank": 1056,
+    "meaning_ja_noun": "ビューワー / 観客"
+  },
+  {
+    "entry": "spur",
+    "rank": 1057,
+    "meaning_ja_noun": "拍車 / 支線 / 勧説 / 花冠の管"
+  },
+  {
+    "entry": "prospectus",
+    "rank": 1062,
+    "meaning_ja_noun": "予定案 / 目論見書"
+  },
+  {
+    "entry": "conscious",
+    "rank": 1063,
+    "meaning_ja_adjective": "意識している / 意識的な"
+  },
+  {
+    "entry": "robot",
+    "rank": 1064,
+    "meaning_ja_noun": "ロボット"
+  },
+  {
+    "entry": "buffer",
+    "rank": 1068,
+    "meaning_ja_noun": "磨き布 / クッション装置 / 研磨機 / バッファ"
+  },
+  {
+    "entry": "infect",
+    "rank": 1070,
+    "meaning_ja_verb": "移す / 感染させる"
+  },
+  {
+    "entry": "formulate",
+    "rank": 1071,
+    "meaning_ja_verb": "練り上げる / 言う / 発明する / 調合する"
+  },
+  {
+    "entry": "socialist",
+    "rank": 1072,
+    "meaning_ja_adjective": "社会主義の / 社会主義的な"
+  },
+  {
+    "entry": "browser",
+    "rank": 1073,
+    "meaning_ja_noun": "ブラウザ / ブラウザー"
+  },
+  {
+    "entry": "cyclical",
+    "rank": 1074,
+    "meaning_ja_adjective": "周期性な"
+  },
+  {
+    "entry": "exaggerate",
+    "rank": 1075,
+    "meaning_ja_verb": "誇張する / やり過ごす / 遣り過ごす / 行き過ぎる"
+  },
+  {
+    "entry": "cartel",
+    "rank": 1077,
+    "meaning_ja_noun": "トラスト / カルテル"
+  },
+  {
+    "entry": "triumph",
+    "rank": 1078,
+    "meaning_ja_noun": "勝ち / 得意 / 勝利 / 優勝"
+  },
+  {
+    "entry": "rationale",
+    "rank": 1079,
+    "meaning_ja_noun": "原則 / 原理 / 道理"
+  },
+  {
+    "entry": "processor",
+    "rank": 1080,
+    "meaning_ja_noun": "プロセッサー / 農産物加工業者 / 処理者"
+  },
+  {
+    "entry": "divert",
+    "rank": 1081,
+    "meaning_ja_verb": "それる / 逸らす / 横領する / 楽します"
+  },
+  {
+    "entry": "delegation",
+    "rank": 1082,
+    "meaning_ja_noun": "代表 / ミッション / 委任"
+  },
+  {
+    "entry": "arguably",
+    "rank": 1083,
+    "meaning_ja_adverb": "おそらく"
+  },
+  {
+    "entry": "ordinate",
+    "rank": 1084,
+    "meaning_ja_verb": "まとめる / 任命する / 纏める / そろえる"
+  },
+  {
+    "entry": "casualty",
+    "rank": 1085,
+    "meaning_ja_noun": "傷害 / 死亡事故 / 被害者 / 戦闘犠牲者"
+  },
+  {
+    "entry": "verdict",
+    "rank": 1086,
+    "meaning_ja_noun": "事実認定"
+  },
+  {
+    "entry": "dot",
+    "rank": 1087,
+    "meaning_ja_noun": "エルヴィス / 運輸省 / ドット"
+  },
+  {
+    "entry": "distinctive",
+    "rank": 1088,
+    "meaning_ja_adjective": "特有な / 弁別的な"
+  },
+  {
+    "entry": "inflationary",
+    "rank": 1089,
+    "meaning_ja_adjective": "インフレ的な"
+  },
+  {
+    "entry": "tort",
+    "rank": 1091,
+    "meaning_ja_noun": "不法行為"
+  },
+  {
+    "entry": "positively",
+    "rank": 1092,
+    "meaning_ja_adverb": "完全に / 前向きに"
+  },
+  {
+    "entry": "constituency",
+    "rank": 1095,
+    "meaning_ja_noun": "有権者"
+  },
+  {
+    "entry": "explosion",
+    "rank": 1097,
+    "meaning_ja_noun": "爆発 / 爆発ショット / 音声学的な爆発 / 炸裂"
+  },
+  {
+    "entry": "liberalization",
+    "rank": 1098,
+    "meaning_ja_noun": "緩和 / 自由化"
+  },
+  {
+    "entry": "buyout",
+    "rank": 1099,
+    "meaning_ja_noun": "買収"
+  },
+  {
+    "entry": "separation",
+    "rank": 1100,
+    "meaning_ja_noun": "分離 / 別居 / 分別 / 狭間"
+  },
+  {
+    "entry": "dissolve",
+    "rank": 1102,
+    "meaning_ja_verb": "溶ける / 溶かす / 解散する / 消える"
+  },
+  {
+    "entry": "remarkably",
+    "rank": 1104,
+    "meaning_ja_adverb": "大変 / 著しく / 特に / 特別"
+  },
+  {
+    "entry": "spark",
+    "rank": 1106,
+    "meaning_ja_noun": "輝き / 火花 / スパーク"
+  },
+  {
+    "entry": "migration",
+    "rank": 1107,
+    "meaning_ja_noun": "移動 / 渡り / （該当する訳語なし） / 移民"
+  },
+  {
+    "entry": "dip",
+    "rank": 1111,
+    "meaning_ja_verb": "浸して染める / 下がる / 浸ける / 浸す / 汲む"
+  },
+  {
+    "entry": "slogan",
+    "rank": 1113,
+    "meaning_ja_noun": "スローガン"
+  },
+  {
+    "entry": "competitiveness",
+    "rank": 1114,
+    "meaning_ja_noun": "戦意 / ファイト"
+  },
+  {
+    "entry": "inclusion",
+    "rank": 1115,
+    "meaning_ja_noun": "包括 / 封入体 / 包含 / 含み"
+  },
+  {
+    "entry": "copper",
+    "rank": 1116,
+    "meaning_ja_noun": "銅蝶 / 銅色 / サツ / 銅貨"
+  },
+  {
+    "entry": "poison",
+    "rank": 1117,
+    "meaning_ja_verb": "毒殺する / 毒を加える / 毒する",
+    "meaning_ja_noun": "毒物 / 害毒 / 毒薬"
+  },
+  {
+    "entry": "justification",
+    "rank": 1118,
+    "meaning_ja_noun": "正当化 / 理由 / 弁解 / 正当化できる理由"
+  },
+  {
+    "entry": "outright",
+    "rank": 1119,
+    "meaning_ja_adverb": "一瞬 / 率直に / 即金で / 直ちに"
+  },
+  {
+    "entry": "stance",
+    "rank": 1120,
+    "meaning_ja_noun": "立ち姿 / 立場 / 態度 / 姿勢"
+  },
+  {
+    "entry": "fringe",
+    "rank": 1121,
+    "meaning_ja_noun": "フリンジ / 前髪 / 周辺集団 / 町外れ"
+  },
+  {
+    "entry": "bitter",
+    "rank": 1122,
+    "meaning_ja_adjective": "痛烈な / 苦い / 厳しい / ひどい"
+  },
+  {
+    "entry": "wheat",
+    "rank": 1123,
+    "meaning_ja_noun": "黄色 / 小麦"
+  },
+  {
+    "entry": "hostility",
+    "rank": 1124,
+    "meaning_ja_noun": "侵略 / 反感 / 敵意 / 対立"
+  },
+  {
+    "entry": "enlargement",
+    "rank": 1125,
+    "meaning_ja_noun": "膨大 / 増大 / 発展 / 拡大"
+  },
+  {
+    "entry": "hub",
+    "rank": 1126,
+    "meaning_ja_noun": "ハブ / こしき"
+  },
+  {
+    "entry": "trim",
+    "rank": 1127,
+    "meaning_ja_noun": "刈り込み / 飾り / 姿勢 / 整えられた状態"
+  },
+  {
+    "entry": "lesser",
+    "rank": 1128,
+    "meaning_ja_adjective": "弱小な / 小さい"
+  },
+  {
+    "entry": "republic",
+    "rank": 1129,
+    "meaning_ja_noun": "共和国"
+  },
+  {
+    "entry": "forthcoming",
+    "rank": 1130,
+    "meaning_ja_adjective": "発売中な / 近く訪れる / 外向的な"
+  },
+  {
+    "entry": "denounce",
+    "rank": 1133,
+    "meaning_ja_verb": "非難する / 裏切る / 排撃する / 弾劾する"
+  },
+  {
+    "entry": "artificial",
+    "rank": 1134,
+    "meaning_ja_adjective": "人工的な"
+  },
+  {
+    "entry": "trait",
+    "rank": 1135,
+    "meaning_ja_noun": "特徴 / 特性 / 特色 / 特質"
+  },
+  {
+    "entry": "protester",
+    "rank": 1137,
+    "meaning_ja_noun": "デモンストレータ / 協技者 / デモンストレーター / 反対者"
+  },
+  {
+    "entry": "portray",
+    "rank": 1138,
+    "meaning_ja_verb": "写す / 肖像画に描く / 表現する / 扮する"
+  },
+  {
+    "entry": "echo",
+    "rank": 1139,
+    "meaning_ja_noun": "反響 / エコー / 木霊 / 山彦"
+  },
+  {
+    "entry": "haul",
+    "rank": 1140,
+    "meaning_ja_noun": "牽引 / 漁獲"
+  },
+  {
+    "entry": "financially",
+    "rank": 1141,
+    "meaning_ja_adverb": "財政的に"
+  },
+  {
+    "entry": "maximization",
+    "rank": 1142,
+    "meaning_ja_noun": "最大化"
+  },
+  {
+    "entry": "bureaucrat",
+    "rank": 1143,
+    "meaning_ja_noun": "官僚"
+  },
+  {
+    "entry": "competency",
+    "rank": 1145,
+    "meaning_ja_noun": "技術 / 能力 / 実力"
+  },
+  {
+    "entry": "dissolution",
+    "rank": 1148,
+    "meaning_ja_noun": "解消 / 会議の終了 / 放蕩 / 分解"
+  },
+  {
+    "entry": "distortion",
+    "rank": 1149,
+    "meaning_ja_noun": "歪曲 / こじつけ / ゆがみ / 収差"
+  },
+  {
+    "entry": "continually",
+    "rank": 1150,
+    "meaning_ja_adverb": "頻繁 / のべつ"
+  },
+  {
+    "entry": "coordination",
+    "rank": 1151,
+    "meaning_ja_noun": "総合 / （代表訳なし） / 調整 / 統一"
+  },
+  {
+    "entry": "awkward",
+    "rank": 1154,
+    "meaning_ja_adjective": "不味い / 厄介な / まずい / 不器用な"
+  },
+  {
+    "entry": "slack",
+    "rank": 1155,
+    "meaning_ja_verb": "消和する / 減速する / 衰える / ペースを緩める"
+  },
+  {
+    "entry": "drift",
+    "rank": 1157,
+    "meaning_ja_verb": "漂流する / 変動する / 移動する / 押し流す"
+  },
+  {
+    "entry": "vaccine",
+    "rank": 1158,
+    "meaning_ja_noun": "ワクチン"
+  },
+  {
+    "entry": "particle",
+    "rank": 1160,
+    "meaning_ja_noun": "不変化詞 / 粒子 / 微塵 / 素粒子"
+  },
+  {
+    "entry": "emergence",
+    "rank": 1162,
+    "meaning_ja_noun": "出現 / 表われ / 発生 / 現出"
+  },
+  {
+    "entry": "interference",
+    "rank": 1163,
+    "meaning_ja_noun": "干渉 / 邪魔 / 荷物 / 内政干渉政策"
+  },
+  {
+    "entry": "indifference",
+    "rank": 1164,
+    "meaning_ja_noun": "無関心 / 平気 / 冷淡 / 中立"
+  },
+  {
+    "entry": "geographical",
+    "rank": 1165,
+    "meaning_ja_adjective": "地理的な"
+  },
+  {
+    "entry": "encompass",
+    "rank": 1167,
+    "meaning_ja_verb": "含む / カバーする / 網羅する / 包含する"
+  },
+  {
+    "entry": "proportional",
+    "rank": 1168,
+    "meaning_ja_adjective": "比例的な / 比例する / 釣り合った"
+  },
+  {
+    "entry": "uncover",
+    "rank": 1170,
+    "meaning_ja_verb": "明らかにする / 露出する"
+  },
+  {
+    "entry": "petty",
+    "rank": 1171,
+    "meaning_ja_adjective": "劣った / せこい / 小さい / みみっちい"
+  },
+  {
+    "entry": "convergence",
+    "rank": 1172,
+    "meaning_ja_noun": "輻輳 / 重複 / 収束 / 収れん"
+  },
+  {
+    "entry": "worsen",
+    "rank": 1173,
+    "meaning_ja_verb": "悪化する / 悪化させる / 退転する"
+  },
+  {
+    "entry": "rejection",
+    "rank": 1174,
+    "meaning_ja_noun": "排除 / 拒否 / 拒絶 / 拒絶されること"
+  },
+  {
+    "entry": "reorganization",
+    "rank": 1175,
+    "meaning_ja_noun": "再組織 / 再編 / 再編成 / 更生"
+  },
+  {
+    "entry": "mitigate",
+    "rank": 1176,
+    "meaning_ja_verb": "軽減する / 緩和する / 緩める"
+  },
+  {
+    "entry": "successive",
+    "rank": 1177,
+    "meaning_ja_adjective": "連続した"
+  },
+  {
+    "entry": "blend",
+    "rank": 1178,
+    "meaning_ja_noun": "混合 / 混成語 / 配合 / ブレンド",
+    "meaning_ja_verb": "溶ける / 合わせる / 和する / 混じる"
+  },
+  {
+    "entry": "simplicity",
+    "rank": 1180,
+    "meaning_ja_noun": "簡素 / 平易 / 単純 / 単純さ"
+  },
+  {
+    "entry": "static",
+    "rank": 1181,
+    "meaning_ja_adjective": "不変な / 静止した / 静電気の / 静的な"
+  },
+  {
+    "entry": "deregulation",
+    "rank": 1182,
+    "meaning_ja_noun": "規制緩和"
+  },
+  {
+    "entry": "computerize",
+    "rank": 1183,
+    "meaning_ja_verb": "コンピュータ化する"
+  },
+  {
+    "entry": "succession",
+    "rank": 1184,
+    "meaning_ja_noun": "相続 / 一連 / 継続 / 連続"
+  },
+  {
+    "entry": "royalty",
+    "rank": 1185,
+    "meaning_ja_noun": "王家 / 印税 / 皇族 / 王室"
+  },
+  {
+    "entry": "classroom",
+    "rank": 1186,
+    "meaning_ja_noun": "教室 / 教場"
+  },
+  {
+    "entry": "spectacular",
+    "rank": 1187,
+    "meaning_ja_adjective": "目立つ / 華々しい / 美しい / 著しい"
+  },
+  {
+    "entry": "macro",
+    "rank": 1188,
+    "meaning_ja_adjective": "マクロな"
+  },
+  {
+    "entry": "flourish",
+    "rank": 1189,
+    "meaning_ja_noun": "ファンファーレ / 花形 / 華やかな表現 / これ見よがしの態度"
+  },
+  {
+    "entry": "insurgent",
+    "rank": 1190,
+    "meaning_ja_noun": "ゲリラ / 逆賊"
+  },
+  {
+    "entry": "script",
+    "rank": 1191,
+    "meaning_ja_noun": "脚本 / 文字体系"
+  },
+  {
+    "entry": "relevance",
+    "rank": 1192,
+    "meaning_ja_noun": "関係 / 関連 / 関わり"
+  },
+  {
+    "entry": "complement",
+    "rank": 1193,
+    "meaning_ja_noun": "補充 / 補完 / 補格 / 総勢"
+  },
+  {
+    "entry": "oral",
+    "rank": 1194,
+    "meaning_ja_adjective": "経口的な / 口腔的な / 口の / 口頭の",
+    "meaning_ja_noun": "口頭 / 口内"
+  },
+  {
+    "entry": "setup",
+    "rank": 1195,
+    "meaning_ja_noun": "でっち上げ / 機械 / 仕組み / 器具"
+  },
+  {
+    "entry": "notable",
+    "rank": 1196,
+    "meaning_ja_adjective": "名高い / めぼしい / 有名な / 著名な"
+  },
+  {
+    "entry": "tranche",
+    "rank": 1197,
+    "meaning_ja_noun": "部分"
+  },
+  {
+    "entry": "numerical",
+    "rank": 1198,
+    "meaning_ja_adjective": "数的な / 数値的な"
+  },
+  {
+    "entry": "policymaker",
+    "meaning_ja": "【名/C】政策立案者",
+    "rank": 1199
+  },
+  {
+    "entry": "technically",
+    "rank": 1200,
+    "meaning_ja_adverb": "技術的 / 技術的に"
+  },
+  {
+    "entry": "organ",
+    "rank": 1201,
+    "meaning_ja_noun": "オルガン / エレクトーン / 器官 / 機関"
+  },
+  {
+    "entry": "cheat",
+    "rank": 1202,
+    "meaning_ja_verb": "だます / 騙す / 欺く / 裏切る"
+  },
+  {
+    "entry": "utilization",
+    "rank": 1203,
+    "meaning_ja_noun": "使用 / 利用 / 活用 / 使い"
+  },
+  {
+    "entry": "tumble",
+    "rank": 1204,
+    "meaning_ja_verb": "転がる / 落ちる / 転落する / 乾燥する / 分かる"
+  },
+  {
+    "entry": "baseline",
+    "rank": 1205,
+    "meaning_ja_noun": "塁線 / ベースライン / 基線"
+  },
+  {
+    "entry": "template",
+    "rank": 1206,
+    "meaning_ja_noun": "指針 / 鋳型"
+  },
+  {
+    "entry": "instability",
+    "rank": 1209,
+    "meaning_ja_noun": "不定 / 不安定 / 不均衡"
+  },
+  {
+    "entry": "obituary",
+    "rank": 1210,
+    "meaning_ja_noun": "訃報"
+  },
+  {
+    "entry": "peso",
+    "rank": 1212,
+    "meaning_ja_noun": "ペソ"
+  },
+  {
+    "entry": "denominate",
+    "rank": 1213,
+    "meaning_ja_verb": "名付ける / 命名する"
+  },
+  {
+    "entry": "shortfall",
+    "rank": 1214,
+    "meaning_ja_noun": "不足 / 欠乏"
+  },
+  {
+    "entry": "originate",
+    "rank": 1217,
+    "meaning_ja_verb": "始める / 生まれる / 発する / 開始する"
+  },
+  {
+    "entry": "bureaucratic",
+    "rank": 1218,
+    "meaning_ja_adjective": "官僚的な"
+  },
+  {
+    "entry": "stochastic",
+    "rank": 1221,
+    "meaning_ja_adjective": "確率的な"
+  },
+  {
+    "entry": "kidnap",
+    "rank": 1222,
+    "meaning_ja_verb": "誘拐する / 拉致する / 攫う / 連れ去る"
+  },
+  {
+    "entry": "prevention",
+    "rank": 1223,
+    "meaning_ja_noun": "防止 / 予防 / 阻止"
+  },
+  {
+    "entry": "redundancy",
+    "rank": 1224,
+    "meaning_ja_noun": "冗長性 / 蛇足 / 重複"
+  },
+  {
+    "entry": "dictator",
+    "rank": 1225,
+    "meaning_ja_noun": "覇者 / 独裁者 / 指示者"
+  },
+  {
+    "entry": "dual",
+    "rank": 1226,
+    "meaning_ja_adjective": "二重の / 二元的な"
+  },
+  {
+    "entry": "brick",
+    "rank": 1227,
+    "meaning_ja_noun": "レンガ / 良い仲間"
+  },
+  {
+    "entry": "internally",
+    "rank": 1228,
+    "meaning_ja_adverb": "内部 / 内部的"
+  },
+  {
+    "entry": "erode",
+    "rank": 1230,
+    "meaning_ja_verb": "侵食する / 減少する / 浸食する"
+  },
+  {
+    "entry": "refinance",
+    "rank": 1231,
+    "meaning_ja_verb": "リファイナンスする"
+  },
+  {
+    "entry": "tribal",
+    "rank": 1232,
+    "meaning_ja_adjective": "部族の"
+  },
+  {
+    "entry": "empower",
+    "rank": 1233,
+    "meaning_ja_verb": "権限を与える / 下さる"
+  },
+  {
+    "entry": "oversight",
+    "rank": 1234,
+    "meaning_ja_noun": "粗相 / 監督 / 過失 / 粗忽"
+  },
+  {
+    "entry": "transparent",
+    "rank": 1235,
+    "meaning_ja_adjective": "透明な / 薄手な / 薄っぺらな"
+  },
+  {
+    "entry": "predictor",
+    "rank": 1236,
+    "meaning_ja_noun": "高射算定装置 / 予測情報 / 占い師"
+  },
+  {
+    "entry": "dominance",
+    "rank": 1238,
+    "meaning_ja_noun": "優位性 / 優性 / 優位"
+  },
+  {
+    "entry": "segmentation",
+    "rank": 1239,
+    "meaning_ja_noun": "部分 / 卵割 / 分野"
+  },
+  {
+    "entry": "hugely",
+    "rank": 1240,
+    "meaning_ja_adverb": "非常に"
+  },
+  {
+    "entry": "arbitrary",
+    "rank": 1241,
+    "meaning_ja_adjective": "勝手な / 任意な"
+  },
+  {
+    "entry": "seemingly",
+    "rank": 1242,
+    "meaning_ja_adverb": "一見 / 見かけ上"
+  },
+  {
+    "entry": "wholesaler",
+    "rank": 1244,
+    "meaning_ja_noun": "問屋 / 仲買"
+  },
+  {
+    "entry": "renewable",
+    "rank": 1245,
+    "meaning_ja_adjective": "リニューアブルな"
+  },
+  {
+    "entry": "bilateral",
+    "rank": 1246,
+    "meaning_ja_adjective": "両側性な / 二国間の / 両側対称な"
+  },
+  {
+    "entry": "cotton",
+    "rank": 1249,
+    "meaning_ja_noun": "木綿 / コットン / 綿布"
+  },
+  {
+    "entry": "intensity",
+    "rank": 1250,
+    "meaning_ja_noun": "鮮やかさ / ボリューム / ハード / 強度"
+  },
+  {
+    "entry": "routinely",
+    "rank": 1251,
+    "meaning_ja_adverb": "定期的に"
+  },
+  {
+    "entry": "displace",
+    "rank": 1252,
+    "meaning_ja_verb": "追い遣る / 移動する / 代わる / 解雇する"
+  },
+  {
+    "entry": "immune",
+    "rank": 1253,
+    "meaning_ja_adjective": "影響されない / 免疫性な / 免除された / 抵抗性な"
+  },
+  {
+    "entry": "obscure",
+    "rank": 1254,
+    "meaning_ja_adjective": "あいまい / 不明な / 孤立した / 目立たない"
+  },
+  {
+    "entry": "mobility",
+    "rank": 1255,
+    "meaning_ja_noun": "快速"
+  },
+  {
+    "entry": "dilute",
+    "rank": 1256,
+    "meaning_ja_verb": "割る / 落す / 薄める / 水割り"
+  },
+  {
+    "entry": "precedent",
+    "rank": 1257,
+    "meaning_ja_noun": "実例 / コモンロー / 前例 / 慣習法"
+  },
+  {
+    "entry": "elaborate",
+    "rank": 1258,
+    "meaning_ja_verb": "ひねり出す / 凝る / 展開する / 生成する"
+  },
+  {
+    "entry": "reprint",
+    "rank": 1259,
+    "meaning_ja_noun": "抜刷り / 再版"
+  },
+  {
+    "entry": "bull",
+    "rank": 1260,
+    "meaning_ja_noun": "失敗 / 去勢してない雄牛 / 不適切な行動 / 教書"
+  },
+  {
+    "entry": "clone",
+    "rank": 1263,
+    "meaning_ja_verb": "クローンを作る"
+  },
+  {
+    "entry": "extremist",
+    "rank": 1264,
+    "meaning_ja_adjective": "極端な / 過激な / ラジカルな / 先鋭な"
+  },
+  {
+    "entry": "peg",
+    "rank": 1265,
+    "meaning_ja_noun": "木製のピン / 櫂臍 / 調整器"
+  },
+  {
+    "entry": "idle",
+    "rank": 1266,
+    "meaning_ja_adjective": "ぐうたら / 軽い / 使われていない / 無責任な"
+  },
+  {
+    "entry": "allegedly",
+    "rank": 1269,
+    "meaning_ja_adverb": "主張されている"
+  },
+  {
+    "entry": "annualize",
+    "meaning_ja": "【動/他】…を年率に換算する；...を年間で計算する【動/自】年間で...になる。",
+    "rank": 1271
+  },
+  {
+    "entry": "turmoil",
+    "rank": 1272,
+    "meaning_ja_noun": "興奮 / 大騒ぎ / 騒動 / 動揺"
+  },
+  {
+    "entry": "reinforcement",
+    "rank": 1273,
+    "meaning_ja_noun": "報奨 / 支援 / 補強 / 強化"
+  },
+  {
+    "entry": "wary",
+    "rank": 1274,
+    "meaning_ja_adjective": "用心深い / 疑い深い"
+  },
+  {
+    "entry": "credible",
+    "rank": 1276,
+    "meaning_ja_adjective": "信頼できる / 信じやすい"
+  },
+  {
+    "entry": "woe",
+    "rank": 1277,
+    "meaning_ja_noun": "痛み / 苦難 / 悲哀"
+  },
+  {
+    "entry": "capita",
+    "meaning_ja": "【名】市民たる地位；人物；頭；人；個体",
+    "rank": 1278
+  },
+  {
+    "entry": "underestimate",
+    "rank": 1279,
+    "meaning_ja_verb": "見くびる / 軽んずる / 見縊る"
+  },
+  {
+    "entry": "tolerate",
+    "rank": 1280,
+    "meaning_ja_verb": "我慢する / 容認する / 耐える / 許容する"
+  },
+  {
+    "entry": "casino",
+    "rank": 1281,
+    "meaning_ja_noun": "カッシノ / カジノ"
+  },
+  {
+    "entry": "downside",
+    "rank": 1283,
+    "meaning_ja_noun": "下側"
+  },
+  {
+    "entry": "fragile",
+    "rank": 1284,
+    "meaning_ja_adjective": "か細い / 弱い / 薄い / か弱い"
+  },
+  {
+    "entry": "invade",
+    "rank": 1285,
+    "meaning_ja_verb": "占領する / 侵入する / 侵す / 生息する"
+  },
+  {
+    "entry": "steam",
+    "rank": 1286,
+    "meaning_ja_noun": "蒸気 / 湯気 / スチーム"
+  },
+  {
+    "entry": "subtle",
+    "rank": 1287,
+    "meaning_ja_adjective": "わずか / 微妙な / 繊細な"
+  },
+  {
+    "entry": "hydrogen",
+    "rank": 1288,
+    "meaning_ja_noun": "水素"
+  },
+  {
+    "entry": "replicate",
+    "rank": 1290,
+    "meaning_ja_verb": "繰り返す / 複製する / 曲げる / 重ねる"
+  },
+  {
+    "entry": "crush",
+    "rank": 1291,
+    "meaning_ja_noun": "圧縮 / 初恋 / プレス / クラッシュレザー"
+  },
+  {
+    "entry": "thereafter",
+    "rank": 1293,
+    "meaning_ja_adverb": "その後"
+  },
+  {
+    "entry": "breakthrough",
+    "rank": 1295,
+    "meaning_ja_noun": "突破 / 大発見 / 発見"
+  },
+  {
+    "entry": "rhetoric",
+    "rank": 1296,
+    "meaning_ja_noun": "レトリック / むだ話 / 長大 / 修辞学"
+  },
+  {
+    "entry": "delta",
+    "rank": 1297,
+    "meaning_ja_noun": "デルタ / 三角州"
+  },
+  {
+    "entry": "marketable",
+    "rank": 1299,
+    "meaning_ja_adjective": "市場性がある / よく売れる / 販売可能な"
+  },
+  {
+    "entry": "conjunction",
+    "rank": 1302,
+    "meaning_ja_noun": "分かれ目 / 併発 / 接続詞"
+  },
+  {
+    "entry": "overhaul",
+    "rank": 1304,
+    "meaning_ja_noun": "革新 / メンテナンス / 刷新"
+  },
+  {
+    "entry": "sensor",
+    "rank": 1305,
+    "meaning_ja_noun": "センサー"
+  },
+  {
+    "entry": "doubtful",
+    "rank": 1306,
+    "meaning_ja_adjective": "あいまい / 怪しい / 不確かな / 疑わしい"
+  },
+  {
+    "entry": "ideological",
+    "rank": 1307,
+    "meaning_ja_adjective": "観念的な"
+  },
+  {
+    "entry": "tribe",
+    "rank": 1308,
+    "meaning_ja_noun": "部族 / 種族 / 一族"
+  },
+  {
+    "entry": "grasp",
+    "rank": 1309,
+    "meaning_ja_noun": "把握 / 鑑賞 / 範囲 / 納得"
+  },
+  {
+    "entry": "injection",
+    "rank": 1311,
+    "meaning_ja_noun": "注射 / 注射液"
+  },
+  {
+    "entry": "bracket",
+    "rank": 1312,
+    "meaning_ja_noun": "ブラケット / 鉤括弧 / カテゴリー"
+  },
+  {
+    "entry": "outrage",
+    "rank": 1314,
+    "meaning_ja_noun": "狼藉 / 暴虐 / スキャンダル / 怒り"
+  },
+  {
+    "entry": "hurdle",
+    "rank": 1315,
+    "meaning_ja_noun": "ハードル"
+  },
+  {
+    "entry": "coincide",
+    "rank": 1317,
+    "meaning_ja_verb": "併発する / 同時発生する / 一致する"
+  },
+  {
+    "entry": "commentator",
+    "rank": 1318,
+    "meaning_ja_noun": "コメンテーター / オブザーバー"
+  },
+  {
+    "entry": "premier",
+    "rank": 1319,
+    "meaning_ja_adjective": "初演の"
+  },
+  {
+    "entry": "insurgency",
+    "rank": 1320,
+    "meaning_ja_noun": "暴動"
+  },
+  {
+    "entry": "incline",
+    "rank": 1321,
+    "meaning_ja_verb": "傾ける / 傾く / 傾斜する / 流れる"
+  },
+  {
+    "entry": "averse",
+    "meaning_ja": "《...を》嫌って；《...に》気が進まなくて；反対して《to, from ...》",
+    "rank": 1322
+  },
+  {
+    "entry": "enlarge",
+    "rank": 1325,
+    "meaning_ja_verb": "拡大する / 引き延ばす / 展開する / 増補する"
+  },
+  {
+    "entry": "ethanol",
+    "rank": 1326,
+    "meaning_ja_noun": "エタノール / エチルアルコール"
+  },
+  {
+    "entry": "fairness",
+    "rank": 1327,
+    "meaning_ja_noun": "魅力 / 正当さ / 明るい肌の特性 / 公正"
+  },
+  {
+    "entry": "dependency",
+    "rank": 1329,
+    "meaning_ja_noun": "コロニー / 依存 / 習慣 / 属国"
+  },
+  {
+    "entry": "prepayment",
+    "rank": 1330,
+    "meaning_ja_noun": "先払い"
+  },
+  {
+    "entry": "externality",
+    "rank": 1331,
+    "meaning_ja_noun": "外部性"
+  },
+  {
+    "entry": "helicopter",
+    "rank": 1332,
+    "meaning_ja_noun": "ヘリコプター / ヘリ"
+  },
+  {
+    "entry": "perpetual",
+    "rank": 1336,
+    "meaning_ja_adjective": "常な / 限りない / 永遠な / 無限な"
+  },
+  {
+    "entry": "ration",
+    "rank": 1338,
+    "meaning_ja_noun": "配給 / 配給量"
+  },
+  {
+    "entry": "mosque",
+    "rank": 1340,
+    "meaning_ja_noun": "モスク"
+  },
+  {
+    "entry": "inability",
+    "rank": 1341,
+    "meaning_ja_noun": "不能 / 無能 / 無力 / 不向き"
+  },
+  {
+    "entry": "discriminate",
+    "rank": 1343,
+    "meaning_ja_verb": "識別する / 区別する / 差別する / 分別する"
+  },
+  {
+    "entry": "analytic",
+    "rank": 1344,
+    "meaning_ja_adjective": "分析的な / 分解的な"
+  },
+  {
+    "entry": "proliferation",
+    "rank": 1346,
+    "meaning_ja_noun": "増殖 / 急増"
+  },
+  {
+    "entry": "autonomous",
+    "rank": 1347,
+    "meaning_ja_adjective": "主体的な / 独立した / 独立的な"
+  },
+  {
+    "entry": "prone",
+    "rank": 1348,
+    "meaning_ja_adjective": "うつ伏せの / 傾向がある"
+  },
+  {
+    "entry": "inefficiency",
+    "rank": 1351,
+    "meaning_ja_noun": "非効率"
+  },
+  {
+    "entry": "downgrade",
+    "rank": 1353,
+    "meaning_ja_noun": "傾斜"
+  },
+  {
+    "entry": "ideology",
+    "rank": 1354,
+    "meaning_ja_noun": "イデオロギー / 空論"
+  },
+  {
+    "entry": "greenhouse",
+    "rank": 1355,
+    "meaning_ja_noun": "温室"
+  },
+  {
+    "entry": "plead",
+    "rank": 1356,
+    "meaning_ja_verb": "嘆願する / 主張する / 抗弁する / 申し立てる"
+  },
+  {
+    "entry": "openly",
+    "rank": 1357,
+    "meaning_ja_adverb": "大っぴら / 晴れて"
+  },
+  {
+    "entry": "elastic",
+    "rank": 1358,
+    "meaning_ja_adjective": "弾力のある / 柔軟な / フレキシブルな"
+  },
+  {
+    "entry": "oust",
+    "rank": 1359,
+    "meaning_ja_verb": "追放する / 取り替える / 追い出す / 追い払う"
+  },
+  {
+    "entry": "entrant",
+    "rank": 1363,
+    "meaning_ja_noun": "参入品 / 参加者 / 新規入国者 / 新人"
+  },
+  {
+    "entry": "underwriter",
+    "rank": 1364,
+    "meaning_ja_noun": "保険会社 / 保険代理店 / 銀行家"
+  },
+  {
+    "entry": "cattle",
+    "rank": 1365,
+    "meaning_ja_noun": "ウシ / 黒牡丹"
+  },
+  {
+    "entry": "newcomer",
+    "rank": 1367,
+    "meaning_ja_noun": "新人 / 新参 / 新米 / 新来"
+  },
+  {
+    "entry": "prolong",
+    "rank": 1368,
+    "meaning_ja_verb": "引っ張る / 続ける / 延長する / 維持する"
+  },
+  {
+    "entry": "salvage",
+    "rank": 1369,
+    "meaning_ja_noun": "救助 / 救助品 / 引き上げ"
+  },
+  {
+    "entry": "pursuant",
+    "meaning_ja": "(形)《...に》準ずる, 従った, 拠った 《to ...》 / 追跡する,追う / (副)《…に》従って,準じて《to ...》",
+    "rank": 1370
+  },
+  {
+    "entry": "appropriately",
+    "rank": 1371,
+    "meaning_ja_adverb": "適切に"
+  },
+  {
+    "entry": "accusation",
+    "rank": 1373,
+    "meaning_ja_noun": "告発"
+  },
+  {
+    "entry": "entrepreneurial",
+    "rank": 1374,
+    "meaning_ja_adjective": "起業家精神のある / 起業家の"
+  },
+  {
+    "entry": "devaluation",
+    "rank": 1375,
+    "meaning_ja_noun": "減価 / 平価切下げ"
+  },
+  {
+    "entry": "outlay",
+    "rank": 1376,
+    "meaning_ja_noun": "消費 / 費用 / 支出 / 出費"
+  },
+  {
+    "entry": "simulate",
+    "rank": 1377,
+    "meaning_ja_verb": "装う / 模擬する / コピーする / 偽る"
+  },
+  {
+    "entry": "precious",
+    "rank": 1379,
+    "meaning_ja_adjective": "かわいい / 大切な / 貴重な / 大事な"
+  },
+  {
+    "entry": "regain",
+    "rank": 1380,
+    "meaning_ja_verb": "取り戻す / 見つける"
+  },
+  {
+    "entry": "differentiation",
+    "rank": 1381,
+    "meaning_ja_noun": "微分法 / 区別 / 分化 / 差別"
+  },
+  {
+    "entry": "restrictive",
+    "rank": 1382,
+    "meaning_ja_adjective": "制限的な"
+  },
+  {
+    "entry": "deed",
+    "rank": 1383,
+    "meaning_ja_noun": "活動 / 権利書 / 行動 / 行為"
+  },
+  {
+    "entry": "competent",
+    "rank": 1384,
+    "meaning_ja_adjective": "有能な / 法的に資格のある / 適切な"
+  },
+  {
+    "entry": "horror",
+    "rank": 1385,
+    "meaning_ja_noun": "恐怖 / 嫌悪 / 恐れ / 反感"
+  },
+  {
+    "entry": "occasional",
+    "rank": 1388,
+    "meaning_ja_adjective": "時々の / 一時的な / 周期的な / 稀な"
+  },
+  {
+    "entry": "globe",
+    "rank": 1391,
+    "meaning_ja_noun": "地球 / グローブ"
+  },
+  {
+    "entry": "sovereignty",
+    "rank": 1392,
+    "meaning_ja_noun": "主権 / 君臨"
+  },
+  {
+    "entry": "asylum",
+    "rank": 1393,
+    "meaning_ja_noun": "精神病院 / 聖域 / 精神科病院 / 隠れ家"
+  },
+  {
+    "entry": "isolation",
+    "rank": 1394,
+    "meaning_ja_noun": "隔離 / 孤立 / 孤独 / 絶縁"
+  },
+  {
+    "entry": "overstate",
+    "rank": 1396,
+    "meaning_ja_verb": "誇張する"
+  },
+  {
+    "entry": "partition",
+    "rank": 1397,
+    "meaning_ja_noun": "部分 / 仕切り / 隔壁 / パーティション"
+  },
+  {
+    "entry": "hypothetical",
+    "rank": 1398,
+    "meaning_ja_adjective": "仮言的な"
+  },
+  {
+    "entry": "deprive",
+    "rank": 1399,
+    "meaning_ja_verb": "奪う / 取り上げる / 取上げる"
+  },
+  {
+    "entry": "investigator",
+    "rank": 1401,
+    "meaning_ja_noun": "調査者 / 研究者 / 刑事 / 岡っ引き"
+  },
+  {
+    "entry": "explosive",
+    "rank": 1402,
+    "meaning_ja_adjective": "爆発性の / 爆発的な",
+    "meaning_ja_noun": "爆薬 / 爆発物"
+  },
+  {
+    "entry": "tactical",
+    "rank": 1403,
+    "meaning_ja_adjective": "戦術的な"
+  },
+  {
+    "entry": "psychology",
+    "rank": 1404,
+    "meaning_ja_noun": "心理"
+  },
+  {
+    "entry": "reap",
+    "rank": 1405,
+    "meaning_ja_verb": "取り入れる / 得る / 収穫する / 刈り取る"
+  },
+  {
+    "entry": "disposable",
+    "rank": 1406,
+    "meaning_ja_adjective": "使い捨ての / 使える"
+  },
+  {
+    "entry": "arbitration",
+    "rank": 1407,
+    "meaning_ja_noun": "調停 / 仲裁 / 裁定"
+  },
+  {
+    "entry": "boycott",
+    "rank": 1409,
+    "meaning_ja_noun": "ボイコット"
+  },
+  {
+    "entry": "discrete",
+    "rank": 1410,
+    "meaning_ja_adjective": "別々 / 別な"
+  },
+  {
+    "entry": "gloomy",
+    "rank": 1411,
+    "meaning_ja_adjective": "薄暗い / 重い / 暗い / 陰気な"
+  },
+  {
+    "entry": "unpredictable",
+    "rank": 1412,
+    "meaning_ja_adjective": "予測不可能な / 不規則な / 不可測な"
+  },
+  {
+    "entry": "accumulation",
+    "rank": 1415,
+    "meaning_ja_noun": "堆積 / 集団 / 集積 / 蓄積"
+  },
+  {
+    "entry": "disastrous",
+    "rank": 1416,
+    "meaning_ja_adjective": "悲惨な"
+  },
+  {
+    "entry": "dissident",
+    "rank": 1417,
+    "meaning_ja_noun": "反対者 / 協技者"
+  },
+  {
+    "entry": "prototype",
+    "rank": 1419,
+    "meaning_ja_noun": "典型 / プロトタイプ"
+  },
+  {
+    "entry": "defensive",
+    "rank": 1420,
+    "meaning_ja_adjective": "防御的な / 自己弁護的な"
+  },
+  {
+    "entry": "communism",
+    "rank": 1422,
+    "meaning_ja_noun": "コミュニズム"
+  },
+  {
+    "entry": "drain",
+    "rank": 1424,
+    "meaning_ja_noun": "排水 / 流出 / ドレイン / 枯渇",
+    "meaning_ja_verb": "排出する / 弱める / 枯渇させる / 流出する"
+  },
+  {
+    "entry": "frustration",
+    "rank": 1425,
+    "meaning_ja_noun": "挫折させること / 挫折 / フラストレーション / 挫折感"
+  },
+  {
+    "entry": "fret",
+    "rank": 1427,
+    "meaning_ja_verb": "摩耗する / 侵食する / 擦る / 圧迫する / 装飾する"
+  },
+  {
+    "entry": "undervalue",
+    "rank": 1429,
+    "meaning_ja_verb": "価値を失う / 軽視する / 見くびる / 見縊る"
+  },
+  {
+    "entry": "diligence",
+    "rank": 1430,
+    "meaning_ja_noun": "使用 / 勤勉さ / 注意深さ / 適用"
+  },
+  {
+    "entry": "outweigh",
+    "rank": 1432,
+    "meaning_ja_verb": "重さが勝る"
+  },
+  {
+    "entry": "undoubtedly",
+    "rank": 1435,
+    "meaning_ja_adverb": "疑いなく"
+  },
+  {
+    "entry": "composite",
+    "rank": 1436,
+    "meaning_ja_adjective": "複合的な / キク科の"
+  },
+  {
+    "entry": "micro",
+    "rank": 1439,
+    "meaning_ja_adjective": "ミクロ"
+  },
+  {
+    "entry": "amongst",
+    "meaning_ja": "～の間に / ～の中の",
+    "rank": 1442
+  },
+  {
+    "entry": "congressman",
+    "rank": 1443,
+    "meaning_ja_noun": "議員"
+  },
+  {
+    "entry": "ratify",
+    "rank": 1446,
+    "meaning_ja_verb": "サインする / 承認する / 調印する / 批准する"
+  },
+  {
+    "entry": "eventual",
+    "rank": 1448,
+    "meaning_ja_adjective": "最終的な / 究極的な"
+  },
+  {
+    "entry": "vague",
+    "rank": 1449,
+    "meaning_ja_adjective": "あやふや / かすか / あいまい / うやむや"
+  },
+  {
+    "entry": "correspondent",
+    "rank": 1450,
+    "meaning_ja_noun": "ペンパル / レポーター"
+  },
+  {
+    "entry": "doom",
+    "rank": 1451,
+    "meaning_ja_noun": "悲運"
+  },
+  {
+    "entry": "rage",
+    "rank": 1452,
+    "meaning_ja_noun": "ブーム / 激怒 / 激しい荒れ / 激情"
+  },
+  {
+    "entry": "myth",
+    "rank": 1453,
+    "meaning_ja_noun": "神話"
+  },
+  {
+    "entry": "synthetic",
+    "rank": 1454,
+    "meaning_ja_adjective": "合成的な / 総合的な / 人工的な / 人為的な"
+  },
+  {
+    "entry": "outbreak",
+    "rank": 1456,
+    "meaning_ja_noun": "勃発"
+  },
+  {
+    "entry": "separatist",
+    "rank": 1457,
+    "meaning_ja_adjective": "分離主義的な"
+  },
+  {
+    "entry": "deficiency",
+    "rank": 1458,
+    "meaning_ja_noun": "不足 / 欠如 / 不備 / 欠落"
+  },
+  {
+    "entry": "imbalance",
+    "rank": 1459,
+    "meaning_ja_noun": "不均衡 / ホルモンの不均衡"
+  },
+  {
+    "entry": "bolster",
+    "rank": 1460,
+    "meaning_ja_verb": "支する / パディングを追加する / 支える"
+  },
+  {
+    "entry": "constructive",
+    "rank": 1461,
+    "meaning_ja_adjective": "建設的な"
+  },
+  {
+    "entry": "laser",
+    "rank": 1462,
+    "meaning_ja_noun": "レーザー"
+  },
+  {
+    "entry": "smuggle",
+    "rank": 1463,
+    "meaning_ja_verb": "密輸する"
+  },
+  {
+    "entry": "loop",
+    "rank": 1464,
+    "meaning_ja_noun": "ループ / 閉回路 / 蹄状紋"
+  },
+  {
+    "entry": "proclaim",
+    "rank": 1465,
+    "meaning_ja_verb": "敷く / 称える / 宣言する / 声明する"
+  },
+  {
+    "entry": "audio",
+    "rank": 1467,
+    "meaning_ja_noun": "オーディオ / 録音媒体 / 音声媒体"
+  },
+  {
+    "entry": "commence",
+    "rank": 1470,
+    "meaning_ja_verb": "開始する / 始める / 発足する / スタートする"
+  },
+  {
+    "entry": "skeptic",
+    "rank": 1471,
+    "meaning_ja_noun": "懐疑的な人"
+  },
+  {
+    "entry": "bounce",
+    "rank": 1472,
+    "meaning_ja_verb": "追い出す / 跳ね返るように打つ / 跳ね返る / 弾む",
+    "meaning_ja_noun": "バウンド / 弾み"
+  },
+  {
+    "entry": "reformer",
+    "rank": 1474,
+    "meaning_ja_noun": "改良装置 / 改革派 / 改革論者"
+  },
+  {
+    "entry": "endorsement",
+    "rank": 1475,
+    "meaning_ja_noun": "是認 / 賛同 / 承認 / 賛成"
+  },
+  {
+    "entry": "unwilling",
+    "rank": 1476,
+    "meaning_ja_adjective": "気が進まない"
+  },
+  {
+    "entry": "cheaply",
+    "rank": 1477,
+    "meaning_ja_adverb": "安く / けちに"
+  },
+  {
+    "entry": "enrich",
+    "rank": 1478,
+    "meaning_ja_verb": "向上させる / 豊かにする"
+  },
+  {
+    "entry": "prop",
+    "rank": 1479,
+    "meaning_ja_noun": "プロペラ / 支え / 小道具 / 支柱"
+  },
+  {
+    "entry": "depositor",
+    "rank": 1480,
+    "meaning_ja_noun": "預金者"
+  },
+  {
+    "entry": "clout",
+    "rank": 1482,
+    "meaning_ja_noun": "打撃 / コネ / 標的"
+  },
+  {
+    "entry": "thumb",
+    "rank": 1483,
+    "meaning_ja_noun": "手袋の親指部分 / モールディング / 親指"
+  },
+  {
+    "entry": "decree",
+    "rank": 1487,
+    "meaning_ja_verb": "命令する / 定める / 申し渡す"
+  },
+  {
+    "entry": "collectively",
+    "rank": 1488,
+    "meaning_ja_adverb": "共同で"
+  },
+  {
+    "entry": "conspiracy",
+    "rank": 1489,
+    "meaning_ja_noun": "陰謀 / 共謀 / 徒党 / 企み"
+  },
+  {
+    "entry": "dioxide",
+    "rank": 1490,
+    "meaning_ja_noun": "二酸化物"
+  },
+  {
+    "entry": "enhancement",
+    "rank": 1491,
+    "meaning_ja_noun": "加糖"
+  },
+  {
+    "entry": "decentralize",
+    "rank": 1492,
+    "meaning_ja_verb": "分散する"
+  },
+  {
+    "entry": "explode",
+    "rank": 1493,
+    "meaning_ja_verb": "爆発する / 急増する / 逆上する / 反論する"
+  },
+  {
+    "entry": "pensioner",
+    "rank": 1494,
+    "meaning_ja_noun": "年金受給者"
+  },
+  {
+    "entry": "pin",
+    "rank": 1496,
+    "meaning_ja_noun": "ピン / 中心 / 櫂臍 / 暗証番号",
+    "meaning_ja_verb": "駒を固定する / ピンで留める / ピンで突き刺す / 固定する"
+  },
+  {
+    "entry": "aluminum",
+    "rank": 1497,
+    "meaning_ja_noun": "アルミ / アルミニウム"
+  },
+  {
+    "entry": "presume",
+    "rank": 1498,
+    "meaning_ja_verb": "推測する / 見る / 前提とする / 無礼に振る舞う"
+  },
+  {
+    "entry": "prudent",
+    "rank": 1499,
+    "meaning_ja_adjective": "慎重な"
+  },
+  {
+    "entry": "census",
+    "rank": 1502,
+    "meaning_ja_noun": "国勢調査"
+  },
+  {
+    "entry": "vow",
+    "rank": 1503,
+    "meaning_ja_noun": "誓い"
+  },
+  {
+    "entry": "ineffective",
+    "rank": 1504,
+    "meaning_ja_adjective": "効果がない / 無効な"
+  },
+  {
+    "entry": "adequately",
+    "rank": 1505,
+    "meaning_ja_adverb": "十分 / 適当 / 適切"
+  },
+  {
+    "entry": "prosper",
+    "rank": 1506,
+    "meaning_ja_verb": "繁栄する"
+  },
+  {
+    "entry": "testimony",
+    "rank": 1508,
+    "meaning_ja_noun": "証言 / 証拠 / 宣誓証言"
+  },
+  {
+    "entry": "manipulation",
+    "rank": 1509,
+    "meaning_ja_noun": "扱い / 操作 / 取り扱い / 操縦"
+  },
+  {
+    "entry": "cooperative",
+    "rank": 1510,
+    "meaning_ja_adjective": "協同的な / 連繋的な / 協調的な / 連繋した"
+  },
+  {
+    "entry": "rigid",
+    "rank": 1512,
+    "meaning_ja_adjective": "固い / 硬い / ごりごり / こわばった"
+  },
+  {
+    "entry": "tenure",
+    "rank": 1513,
+    "meaning_ja_noun": "知行 / 任期"
+  },
+  {
+    "entry": "milestone",
+    "rank": 1514,
+    "meaning_ja_noun": "マイルストーン / 重要な出来事"
+  },
+  {
+    "entry": "optimum",
+    "rank": 1515,
+    "meaning_ja_adjective": "最適な / 至適な"
+  },
+  {
+    "entry": "subsection",
+    "rank": 1516,
+    "meaning_ja_noun": "部分"
+  },
+  {
+    "entry": "formulation",
+    "rank": 1520,
+    "meaning_ja_noun": "構想 / 表明 / 製剤 / 概念化"
+  },
+  {
+    "entry": "exert",
+    "rank": 1521,
+    "meaning_ja_verb": "発揮する / 振るう / 努力する"
+  },
+  {
+    "entry": "expectancy",
+    "rank": 1522,
+    "meaning_ja_noun": "予想 / 楽しみ / 期待 / 思惑"
+  },
+  {
+    "entry": "syndicate",
+    "rank": 1523,
+    "meaning_ja_noun": "企業組合 / 暴力団 / ニュースエージェンシー / 共同企業体"
+  },
+  {
+    "entry": "unfavorable",
+    "rank": 1525,
+    "meaning_ja_adjective": "不利な / 好ましくない"
+  },
+  {
+    "entry": "proprietorship",
+    "rank": 1526,
+    "meaning_ja_noun": "個人企業"
+  },
+  {
+    "entry": "franc",
+    "rank": 1527,
+    "meaning_ja_noun": "フラン"
+  },
+  {
+    "entry": "policyholder",
+    "rank": 1528,
+    "meaning_ja_noun": "保険契約者"
+  },
+  {
+    "entry": "sustainability",
+    "rank": 1529,
+    "meaning_ja_noun": "持続可能性"
+  },
+  {
+    "entry": "supervisory",
+    "rank": 1530,
+    "meaning_ja_adjective": "監督的な"
+  },
+  {
+    "entry": "sheer",
+    "rank": 1532,
+    "meaning_ja_adjective": "絶対的な / プレーンな / 急な / 薄手な"
+  },
+  {
+    "entry": "electorate",
+    "rank": 1533,
+    "meaning_ja_noun": "有権者 / 選挙民"
+  },
+  {
+    "entry": "realization",
+    "rank": 1534,
+    "meaning_ja_noun": "実行 / 実現 / 認識 / 履行"
+  },
+  {
+    "entry": "neo",
+    "rank": 1535,
+    "meaning_ja_adjective": "新しい"
+  },
+  {
+    "entry": "reinvestment",
+    "meaning_ja": "【名/U】再投資",
+    "rank": 1536
+  },
+  {
+    "entry": "scratch",
+    "rank": 1538,
+    "meaning_ja_noun": "スクラッチ / 悪筆 / キーキー",
+    "meaning_ja_verb": "傷つける / 擦る / 刻み込む / 掻き集める"
+  },
+  {
+    "entry": "dissent",
+    "rank": 1539,
+    "meaning_ja_noun": "反対 / 異議 / 不同意 / 反論"
+  },
+  {
+    "entry": "pit",
+    "rank": 1540,
+    "meaning_ja_noun": "採石場 / （適切な訳語なし） / 落とし穴 / ピット / 闘犬場"
+  },
+  {
+    "entry": "intrigue",
+    "rank": 1541,
+    "meaning_ja_noun": "陰謀 / 密通 / 謀略"
+  },
+  {
+    "entry": "patch",
+    "rank": 1542,
+    "meaning_ja_noun": "継ぎ / 修繕 / アイパッチ / 接続"
+  },
+  {
+    "entry": "brave",
+    "rank": 1543,
+    "meaning_ja_adjective": "勇敢な / 大胆な / 煌びやかな / 豪胆な"
+  },
+  {
+    "entry": "pending",
+    "meaning_ja": "未決定の  / 差し迫った  / …間に(during)  / 《文》…まで(till)",
+    "rank": 1544
+  },
+  {
+    "entry": "scatter",
+    "rank": 1545,
+    "meaning_ja_verb": "撒く / 播種する / 散る / 散らす"
+  },
+  {
+    "entry": "annum",
+    "meaning_ja": "【名/C】年",
+    "rank": 1546
+  },
+  {
+    "entry": "mar",
+    "rank": 1547,
+    "meaning_ja_noun": "瑕疵"
+  },
+  {
+    "entry": "restrain",
+    "rank": 1548,
+    "meaning_ja_verb": "限る / 制御する / 脅す / 抑える"
+  },
+  {
+    "entry": "configuration",
+    "rank": 1549,
+    "meaning_ja_noun": "構成 / 配置"
+  },
+  {
+    "entry": "reportedly",
+    "rank": 1550,
+    "meaning_ja_adverb": "報じて"
+  },
+  {
+    "entry": "negotiator",
+    "rank": 1553,
+    "meaning_ja_noun": "交渉者"
+  },
+  {
+    "entry": "offensive",
+    "rank": 1554,
+    "meaning_ja_adjective": "不愉快な / 不快な / 攻撃的な / 違反する"
+  },
+  {
+    "entry": "rape",
+    "rank": 1555,
+    "meaning_ja_noun": "乱暴 / 略奪 / ナタネ / 暴行",
+    "meaning_ja_verb": "壊す / 襲う / 破る / 犯す"
+  },
+  {
+    "entry": "embody",
+    "rank": 1556,
+    "meaning_ja_verb": "成り切る / 具現する / 具体化する / 演じる"
+  },
+  {
+    "entry": "deployment",
+    "rank": 1557,
+    "meaning_ja_noun": "配備"
+  },
+  {
+    "entry": "detection",
+    "rank": 1558,
+    "meaning_ja_noun": "検出 / 探偵 / 発見 / 探知"
+  },
+  {
+    "entry": "bullet",
+    "rank": 1559,
+    "meaning_ja_noun": "速球 / 新幹線 / 弾丸"
+  },
+  {
+    "entry": "intelligent",
+    "rank": 1561,
+    "meaning_ja_adjective": "賢い / 理知的な / 健全な / 利発な"
+  },
+  {
+    "entry": "conservation",
+    "rank": 1562,
+    "meaning_ja_noun": "保護 / 保存 / 改善 / 維持"
+  },
+  {
+    "entry": "slim",
+    "rank": 1563,
+    "meaning_ja_adjective": "わずかな / 細い / きゃしゃ / か細い"
+  },
+  {
+    "entry": "synergy",
+    "rank": 1564,
+    "meaning_ja_noun": "相乗効果"
+  },
+  {
+    "entry": "beam",
+    "rank": 1566,
+    "meaning_ja_noun": "平均台 / 船の側面 / 中央部の幅"
+  },
+  {
+    "entry": "disguise",
+    "rank": 1567,
+    "meaning_ja_noun": "擬装 / 変装 / 化け / カムフラージュ",
+    "meaning_ja_verb": "覆う / 覆い隠す / 遮蔽する"
+  },
+  {
+    "entry": "selective",
+    "rank": 1569,
+    "meaning_ja_adjective": "選択的な"
+  },
+  {
+    "entry": "assertion",
+    "rank": 1570,
+    "meaning_ja_noun": "宣言 / 表明 / 主張 / 断言"
+  },
+  {
+    "entry": "dictatorship",
+    "rank": 1571,
+    "meaning_ja_noun": "独裁政治"
+  },
+  {
+    "entry": "fraudulent",
+    "rank": 1572,
+    "meaning_ja_adjective": "欺瞞的な"
+  },
+  {
+    "entry": "constituent",
+    "rank": 1573,
+    "meaning_ja_adjective": "構成的な"
+  },
+  {
+    "entry": "fiduciary",
+    "rank": 1575,
+    "meaning_ja_adjective": "信託に関する"
+  },
+  {
+    "entry": "speculate",
+    "rank": 1577,
+    "meaning_ja_verb": "思案する / 思う / 推測する / 投資する"
+  },
+  {
+    "entry": "citizenship",
+    "rank": 1579,
+    "meaning_ja_noun": "市民権"
+  },
+  {
+    "entry": "rebound",
+    "rank": 1580,
+    "meaning_ja_noun": "リバウンド / 反発 / 反動"
+  },
+  {
+    "entry": "scorecard",
+    "rank": 1582,
+    "meaning_ja_noun": "カード"
+  },
+  {
+    "entry": "ounce",
+    "rank": 1583,
+    "meaning_ja_noun": "ユキヒョウ / オンス"
+  },
+  {
+    "entry": "plague",
+    "rank": 1587,
+    "meaning_ja_noun": "迷惑 / 災害 / 異常発生 / ペスト"
+  },
+  {
+    "entry": "killer",
+    "rank": 1588,
+    "meaning_ja_noun": "シャチ / 難題 / キラー / 死因"
+  },
+  {
+    "entry": "grave",
+    "rank": 1589,
+    "meaning_ja_noun": "グレイヴ・アクセント / 墓穴"
+  },
+  {
+    "entry": "contributor",
+    "rank": 1592,
+    "meaning_ja_noun": "寄稿者 / 寄付者"
+  },
+  {
+    "entry": "cognitive",
+    "rank": 1593,
+    "meaning_ja_adjective": "認知的な"
+  },
+  {
+    "entry": "negotiable",
+    "rank": 1594,
+    "meaning_ja_adjective": "伝達性な / 交渉可能な / 通行可能な"
+  },
+  {
+    "entry": "reconstruction",
+    "rank": 1595,
+    "meaning_ja_noun": "改造 / 再構成 / 再建 / 立て直し"
+  },
+  {
+    "entry": "restate",
+    "rank": 1596,
+    "meaning_ja_verb": "繰り返す / 重ねる / 反復する / 折り返す"
+  },
+  {
+    "entry": "rightly",
+    "rank": 1597,
+    "meaning_ja_adverb": "まさしく"
+  },
+  {
+    "entry": "converge",
+    "rank": 1598,
+    "meaning_ja_verb": "集まる / 合う / 収束する / あう"
+  },
+  {
+    "entry": "sadly",
+    "rank": 1599,
+    "meaning_ja_adverb": "不幸にも / 悲しく / 運の悪いことに"
+  },
+  {
+    "entry": "paramilitary",
+    "rank": 1600,
+    "meaning_ja_adjective": "準軍事的な"
+  },
+  {
+    "entry": "incorrect",
+    "rank": 1601,
+    "meaning_ja_adjective": "正しくない / 不適切な / 不正確な / 文法的に不正確な"
+  },
+  {
+    "entry": "compulsory",
+    "rank": 1602,
+    "meaning_ja_adjective": "必須な / 必要な"
+  },
+  {
+    "entry": "dismantle",
+    "rank": 1603,
+    "meaning_ja_verb": "剥がす / 分解する / 破壊する / 剥ぐ"
+  },
+  {
+    "entry": "precision",
+    "rank": 1604,
+    "meaning_ja_noun": "的確 / 精度 / 精緻 / 精細"
+  },
+  {
+    "entry": "duly",
+    "rank": 1606,
+    "meaning_ja_adverb": "適切に"
+  },
+  {
+    "entry": "reformist",
+    "rank": 1608,
+    "meaning_ja_adjective": "進歩的な / 革新的な"
+  },
+  {
+    "entry": "imminent",
+    "rank": 1609,
+    "meaning_ja_adjective": "間近な"
+  },
+  {
+    "entry": "sympathy",
+    "rank": 1611,
+    "meaning_ja_noun": "理解 / 共感 / 親和 / 了解"
+  },
+  {
+    "entry": "forecaster",
+    "rank": 1612,
+    "meaning_ja_noun": "占い師"
+  },
+  {
+    "entry": "conceal",
+    "rank": 1614,
+    "meaning_ja_verb": "隠す / 覆う / 秘める / 伏せる"
+  },
+  {
+    "entry": "unrelated",
+    "rank": 1616,
+    "meaning_ja_adjective": "無関係な"
+  },
+  {
+    "entry": "clarity",
+    "rank": 1617,
+    "meaning_ja_noun": "透明 / 明瞭 / 明快 / 分明"
+  },
+  {
+    "entry": "rigorous",
+    "rank": 1618,
+    "meaning_ja_adjective": "厳重な / 厳密な / 厳格な"
+  },
+  {
+    "entry": "flotation",
+    "rank": 1620,
+    "meaning_ja_noun": "浮遊選鉱法"
+  },
+  {
+    "entry": "atom",
+    "rank": 1621,
+    "meaning_ja_noun": "原子 / 微塵 / アトム / 粒子"
+  },
+  {
+    "entry": "hitherto",
+    "rank": 1622,
+    "meaning_ja_adverb": "これまで"
+  },
+  {
+    "entry": "maneuver",
+    "rank": 1624,
+    "meaning_ja_noun": "工作 / 作戦 / プレー / 演習"
+  },
+  {
+    "entry": "prosperous",
+    "rank": 1625,
+    "meaning_ja_adjective": "繁栄な / 繁華な / 隆盛な"
+  },
+  {
+    "entry": "launder",
+    "rank": 1626,
+    "meaning_ja_verb": "マネーロンダリングする / 洗う / 洗濯する"
+  },
+  {
+    "entry": "statistically",
+    "rank": 1627,
+    "meaning_ja_adverb": "統計的"
+  },
+  {
+    "entry": "specialization",
+    "rank": 1630,
+    "meaning_ja_noun": "専門 / 特化 / 分化 / 専業"
+  },
+  {
+    "entry": "globally",
+    "rank": 1631,
+    "meaning_ja_adverb": "国際的に / 地球規模で"
+  },
+  {
+    "entry": "cleric",
+    "rank": 1633,
+    "meaning_ja_noun": "牧師 / 司祭"
+  },
+  {
+    "entry": "pronounce",
+    "rank": 1634,
+    "meaning_ja_verb": "宣告する / 言う / 言い渡す / いう"
+  },
+  {
+    "entry": "unify",
+    "rank": 1636,
+    "meaning_ja_verb": "連合する / 合併する / 合わせる / 共同する"
+  },
+  {
+    "entry": "dash",
+    "rank": 1639,
+    "meaning_ja_noun": "疾走 / ラッシュ / ダッシュ / ハイフン",
+    "meaning_ja_verb": "砕く / 加える / 投げ付ける / 怖がらせる"
+  },
+  {
+    "entry": "rein",
+    "rank": 1641,
+    "meaning_ja_verb": "抑える / 口する"
+  },
+  {
+    "entry": "dismissal",
+    "rank": 1642,
+    "meaning_ja_noun": "却下 / 解放 / 解雇通知"
+  },
+  {
+    "entry": "empowerment",
+    "rank": 1643,
+    "meaning_ja_noun": "免許 / 認定 / 認可 / 公認"
+  },
+  {
+    "entry": "revival",
+    "rank": 1644,
+    "meaning_ja_noun": "復活 / 復興 / 再現 / 再興"
+  },
+  {
+    "entry": "nationalize",
+    "rank": 1645,
+    "meaning_ja_verb": "国有化する"
+  },
+  {
+    "entry": "swiftly",
+    "rank": 1646,
+    "meaning_ja_adverb": "とっとと / するする"
+  },
+  {
+    "entry": "nationalism",
+    "rank": 1648,
+    "meaning_ja_noun": "愛国 / ナショナリズム"
+  },
+  {
+    "entry": "void",
+    "rank": 1649,
+    "meaning_ja_verb": "排出する / 無効にする / 空にする / 廃止する"
+  },
+  {
+    "entry": "prejudice",
+    "rank": 1651,
+    "meaning_ja_noun": "傾向 / 偏見 / 思い込み / 偏り"
+  },
+  {
+    "entry": "enforceable",
+    "rank": 1652,
+    "meaning_ja_adjective": "強制可能な"
+  },
+  {
+    "entry": "instinct",
+    "rank": 1653,
+    "meaning_ja_noun": "本能 / インスティンクト"
+  },
+  {
+    "entry": "dub",
+    "rank": 1654,
+    "meaning_ja_verb": "吹き替える / ニックネームを付ける / 騎士にする"
+  },
+  {
+    "entry": "deliberate",
+    "rank": 1655,
+    "meaning_ja_adjective": "計算ずく / 周到な / 意図的な / 丁寧な"
+  },
+  {
+    "entry": "approximation",
+    "rank": 1656,
+    "meaning_ja_noun": "近接 / 近似 / 予算 / 近似値"
+  },
+  {
+    "entry": "unsecured",
+    "rank": 1657,
+    "meaning_ja_adjective": "無保証な / 不安定な"
+  },
+  {
+    "entry": "quotation",
+    "rank": 1658,
+    "meaning_ja_noun": "引用 / 援用 / クレジット / 相場"
+  },
+  {
+    "entry": "mold",
+    "rank": 1661,
+    "meaning_ja_noun": "彫刻 / カビ"
+  },
+  {
+    "entry": "blast",
+    "rank": 1662,
+    "meaning_ja_verb": "粉々にする / しおれる / 批判する / 爆撃する",
+    "meaning_ja_noun": "長打 / 攻撃 / 爆発"
+  },
+  {
+    "entry": "alas",
+    "rank": 1665,
+    "meaning_ja_adverb": "あいにく / 生憎"
+  },
+  {
+    "entry": "impair",
+    "rank": 1666,
+    "meaning_ja_verb": "損なう / 損う / 弱める"
+  },
+  {
+    "entry": "testify",
+    "rank": 1668,
+    "meaning_ja_verb": "証言する / 示す / 証明する / 物語る"
+  },
+  {
+    "entry": "prod",
+    "rank": 1669,
+    "meaning_ja_verb": "刺す / 促す / 突っつく / 突く"
+  },
+  {
+    "entry": "liberalize",
+    "rank": 1670,
+    "meaning_ja_verb": "自由化する"
+  },
+  {
+    "entry": "bully",
+    "rank": 1671,
+    "meaning_ja_verb": "威嚇する / いばり散らす / 威張り散らす"
+  },
+  {
+    "entry": "persistent",
+    "rank": 1672,
+    "meaning_ja_adjective": "（訳語なし） / 持続的な"
+  },
+  {
+    "entry": "catastrophe",
+    "rank": 1673,
+    "meaning_ja_noun": "不幸 / 大変動 / 災害 / 悲劇"
+  },
+  {
+    "entry": "endless",
+    "rank": 1674,
+    "meaning_ja_adjective": "無限な / 終わりのない"
+  },
+  {
+    "entry": "revaluation",
+    "rank": 1675,
+    "meaning_ja_noun": "見直し"
+  },
+  {
+    "entry": "swell",
+    "rank": 1676,
+    "meaning_ja_verb": "膨らむ / 膨らます / 高まる / 込み上げる"
+  },
+  {
+    "entry": "worthy",
+    "rank": 1678,
+    "meaning_ja_adjective": "尊敬すべき / ふさわしい / 値する / 相応しい"
+  },
+  {
+    "entry": "resale",
+    "rank": 1679,
+    "meaning_ja_noun": "再販"
+  },
+  {
+    "entry": "progressive",
+    "rank": 1680,
+    "meaning_ja_adjective": "進歩的な / 進行性な / 革新的な"
+  },
+  {
+    "entry": "corrective",
+    "rank": 1681,
+    "meaning_ja_adjective": "修正的な / 規律的な"
+  },
+  {
+    "entry": "genocide",
+    "rank": 1683,
+    "meaning_ja_noun": "ジェノサイド"
+  },
+  {
+    "entry": "legitimacy",
+    "rank": 1684,
+    "meaning_ja_noun": "合法 / 真正 / 適法"
+  },
+  {
+    "entry": "speculator",
+    "rank": 1685,
+    "meaning_ja_noun": "山師 / スペキュレーター"
+  },
+  {
+    "entry": "inconsistent",
+    "rank": 1686,
+    "meaning_ja_adjective": "ちぐはぐ / 不揃い / 不定な / 頓珍漢な"
+  },
+  {
+    "entry": "plainly",
+    "rank": 1688,
+    "meaning_ja_adverb": "さっぱり / 然も / あっさり / 正しく"
+  },
+  {
+    "entry": "equate",
+    "rank": 1689,
+    "meaning_ja_verb": "平均する / 同一視する / 相当する / 対抗する"
+  },
+  {
+    "entry": "unexpectedly",
+    "rank": 1691,
+    "meaning_ja_adverb": "ふと / 突然 / たまたま / 偶然"
+  },
+  {
+    "entry": "timber",
+    "rank": 1692,
+    "meaning_ja_noun": "調子 / 口調 / 森林 / 響き"
+  },
+  {
+    "entry": "credential",
+    "rank": 1693,
+    "meaning_ja_noun": "免許 / 証書"
+  },
+  {
+    "entry": "randomly",
+    "rank": 1695,
+    "meaning_ja_adverb": "任意 / ランダム"
+  },
+  {
+    "entry": "colonial",
+    "rank": 1696,
+    "meaning_ja_adjective": "植民地の / 群生の"
+  },
+  {
+    "entry": "underpin",
+    "rank": 1697,
+    "meaning_ja_verb": "支える / 実証する / 裏付ける / 立証する"
+  },
+  {
+    "entry": "diary",
+    "rank": 1698,
+    "meaning_ja_noun": "日記 / ログ / ジャーナル / 日誌"
+  },
+  {
+    "entry": "heir",
+    "rank": 1699,
+    "meaning_ja_noun": "相続人 / 跡継ぎ / 遺産相続人 / 嫡男"
+  },
+  {
+    "entry": "genuinely",
+    "rank": 1700,
+    "meaning_ja_adverb": "全く / 本物に / 実際"
+  },
+  {
+    "entry": "severely",
+    "rank": 1702,
+    "meaning_ja_adverb": "強か / 厳しく / したたか / 苛酷"
+  },
+  {
+    "entry": "grim",
+    "rank": 1703,
+    "meaning_ja_adjective": "恐ろしい / 重い / 暗い / 冷厳な"
+  },
+  {
+    "entry": "relational",
+    "rank": 1704,
+    "meaning_ja_adjective": "関係のある"
+  },
+  {
+    "entry": "brutal",
+    "rank": 1705,
+    "meaning_ja_adjective": "残忍な / 酷い / 惨い / 該当なし"
+  },
+  {
+    "entry": "quasi",
+    "meaning_ja": "【複合要素】疑似の..., 類似の..., ある意味の..., 準...",
+    "rank": 1706
+  },
+  {
+    "entry": "monopolist",
+    "rank": 1707,
+    "meaning_ja_noun": "独占者"
+  },
+  {
+    "entry": "physically",
+    "rank": 1708,
+    "meaning_ja_adverb": "物理的に"
+  },
+  {
+    "entry": "disposition",
+    "rank": 1709,
+    "meaning_ja_noun": "処分 / 本質 / 気分 / 傾向"
+  },
+  {
+    "entry": "histogram",
+    "rank": 1710,
+    "meaning_ja_noun": "ヒストグラム"
+  },
+  {
+    "entry": "misunderstand",
+    "rank": 1711,
+    "meaning_ja_verb": "間違える / 間違う / 誤解する / 勘違い"
+  },
+  {
+    "entry": "outgoing",
+    "rank": 1714,
+    "meaning_ja_adjective": "退任する / 出発する / 外向的な"
+  },
+  {
+    "entry": "worksheet",
+    "rank": 1715,
+    "meaning_ja_noun": "精算表 / ワークシート"
+  },
+  {
+    "entry": "intercept",
+    "rank": 1718,
+    "meaning_ja_verb": "止める / 盗聴する / 留める / 傍受する"
+  },
+  {
+    "entry": "dent",
+    "rank": 1719,
+    "meaning_ja_noun": "凹み / 減少"
+  },
+  {
+    "entry": "absorption",
+    "rank": 1720,
+    "meaning_ja_noun": "夢中 / 集中 / 吸収 / 摂取"
+  },
+  {
+    "entry": "importer",
+    "rank": 1721,
+    "meaning_ja_noun": "輸入業者"
+  },
+  {
+    "entry": "peacekeeping",
+    "rank": 1723,
+    "meaning_ja_adjective": "平和維持な"
+  },
+  {
+    "entry": "continuity",
+    "rank": 1724,
+    "meaning_ja_noun": "持続性 / コンテ / 一続き / 連続性"
+  },
+  {
+    "entry": "geography",
+    "rank": 1725,
+    "meaning_ja_noun": "地理"
+  },
+  {
+    "entry": "dismal",
+    "rank": 1726,
+    "meaning_ja_adjective": "暗い / 憂鬱な / 暗黒な"
+  },
+  {
+    "entry": "magnetic",
+    "rank": 1727,
+    "meaning_ja_adjective": "カリスマチックな / マグネチックな / 磁北の / 磁化可能な"
+  },
+  {
+    "entry": "generalize",
+    "rank": 1728,
+    "meaning_ja_verb": "全身に広がる / 俗了する / 一般化する"
+  },
+  {
+    "entry": "confrontation",
+    "rank": 1729,
+    "meaning_ja_noun": "比較 / 相対 / 対立 / 挑戦"
+  },
+  {
+    "entry": "demise",
+    "rank": 1730,
+    "meaning_ja_noun": "最後 / 終えん / 終焉"
+  },
+  {
+    "entry": "reversal",
+    "rank": 1731,
+    "meaning_ja_noun": "転換 / 逆転 / 反転 / ターンアラウンド"
+  },
+  {
+    "entry": "tide",
+    "rank": 1732,
+    "meaning_ja_noun": "干満"
+  },
+  {
+    "entry": "saver",
+    "rank": 1733,
+    "meaning_ja_noun": "節約家"
+  },
+  {
+    "entry": "tick",
+    "rank": 1734,
+    "meaning_ja_noun": "ダニ / 軽いマットレス / チェック / カチカチいう音",
+    "meaning_ja_verb": "チェックする / 加点する / 音を出す / マークする"
+  },
+  {
+    "entry": "intensify",
+    "rank": 1736,
+    "meaning_ja_verb": "強まる / 深める / 強化する / （適切な訳語なし）"
+  },
+  {
+    "entry": "reluctance",
+    "rank": 1737,
+    "meaning_ja_noun": "不本意 / 磁気抵抗"
+  },
+  {
+    "entry": "aviation",
+    "rank": 1738,
+    "meaning_ja_noun": "飛行 / 航空技術 / 航空輸送 / 空軍力"
+  },
+  {
+    "entry": "defy",
+    "rank": 1739,
+    "meaning_ja_verb": "耐える / 逃れる / 堪える"
+  },
+  {
+    "entry": "confer",
+    "rank": 1740,
+    "meaning_ja_verb": "協議する / 下さる / 会談する / 与える"
+  },
+  {
+    "entry": "surveillance",
+    "rank": 1742,
+    "meaning_ja_noun": "監督 / 観察 / 監視"
+  },
+  {
+    "entry": "decimal",
+    "rank": 1743,
+    "meaning_ja_noun": "10進数 / 小数"
+  },
+  {
+    "entry": "realizable",
+    "rank": 1744,
+    "meaning_ja_adjective": "達成可能な"
+  },
+  {
+    "entry": "blog",
+    "rank": null,
+    "meaning_ja_noun": "ブログ"
+  },
+  {
+    "entry": "sheer off",
+    "meaning_ja": "【動/自】〈特に船が〉針路からそれる,向きを変える《away, off》 / 《不快なもの・危険から》離れる,《…を》避ける《away, off, from ...》",
+    "rank": null
+  }
+]
